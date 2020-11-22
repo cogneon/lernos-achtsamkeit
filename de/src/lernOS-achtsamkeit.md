@@ -86,7 +86,7 @@ besten Ergebnisse erzielst Du, wenn Du alle drei Dimensionen im
 persönlichen Entwicklungsprozess berücksichtigst, doch auch die
 Konzentration auf eine oder zwei werden Dimensionen hilft Dir weiter.
 
-<img src="media\image1.png" style="width:5.83333in;height:3.09896in" alt="lernOS Wheel von @simondueckert, CC BY 4.0" />
+<img src="images\image1.png" style="width:5.83333in;height:3.09896in" alt="lernOS Wheel von @simondueckert, CC BY 4.0" />
 
 *lernOS Wheel von @simondueckert, CC BY 4.0*
 
@@ -191,7 +191,7 @@ lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung
 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de)
 (CC BY 4.0):
 
-<img src="media\image2.png" style="width:0.91667in;height:0.32292in" />
+<img src="images\image2.png" style="width:0.91667in;height:0.32292in" />
 
 Du darfst:
 
@@ -278,9 +278,9 @@ Du darfst:
 
 **Übersicht über die Themen und Praktiken der 12 Wochen:**
 
-<img src="media\image3.png" style="width:5.875in;height:3.21354in" />
+<img src="images\image3.png" style="width:5.875in;height:3.21354in" />
 
-<img src="media\image4.png" style="width:5.88542in;height:3.08854in" />
+<img src="images\image4.png" style="width:5.88542in;height:3.08854in" />
 
 Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden <span
 id="bookmark=id.k5nowr8uq7n4" class="anchor"></span>**Ablauf**:
@@ -307,7 +307,7 @@ Ausnahme: für das erste Treffen “[<u>Woche 0: der Circle gründet
 sich</u>](#woche-0-der-circle-gründet-sich)” solltet ihr euch 90 Minuten
 Zeit einplanen.
 
-<img src="media\image5.png" style="width:5.90104in;height:2.74467in" />
+<img src="images\image5.png" style="width:5.90104in;height:2.74467in" />
 
 ##  
 
@@ -494,7 +494,7 @@ mit der Gruppe teilen.
 
 ### BILD / Zitat der Woche: “Jedem Anfang wohnt ein Zauber inne!”
 
-<img src="media\image6.jpg" style="width:6.55729in;height:4.74654in" />Bild
+<img src="images\image6.jpg" style="width:6.55729in;height:4.74654in" />Bild
 von [<u>Michal
 Jarmoluk</u>](https://pixabay.com/de/users/jarmoluk-143740/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 auf
@@ -650,7 +650,7 @@ sei milde und mitfühlend mit Dir, wenn es anders kommt.
 
 ### BILD / Zitat der Woche: “Jede große Reise beginnt mit dem ersten Schritt”
 
-<img src="media\image7.png" style="width:5.1875in;height:2.98438in" />
+<img src="images\image7.png" style="width:5.1875in;height:2.98438in" />
 
 Bild von Jordan\_Singh auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
@@ -856,7 +856,7 @@ Erfahrung ist eine verstandene Wahrnehmung. (Immanuel Kant)
 Es gibt nichts zu entdecken, nichts zu erfinden, einzig und alleine eine
 sich wandelnde Wahrnehmung. (Andreas Herteux)
 
-<img src="media\image8.png" style="width:5.24479in;height:3.49971in" />  
+<img src="images\image8.png" style="width:5.24479in;height:3.49971in" />  
 Bild von sasint auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -1046,7 +1046,7 @@ Stücke eines Apfels) mit.
 Schöne Illustration:
 [<u>https://ronaldreichmann.com/dealing-with-your-monkey-mind</u>](https://ronaldreichmann.com/dealing-with-your-monkey-mind)
 
-<img src="media\image9.png" style="width:4.67188in;height:3.53317in" />  
+<img src="images\image9.png" style="width:4.67188in;height:3.53317in" />  
 Bild von ElisaRiva auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -1203,8 +1203,9 @@ Achtsamkeit.
 -   15 Minuten, während der Du ungestört bist
 
 -   drei Rosinen (oder etwas Ähnliches z.B. Gummibärchen oder ein Stück
-    > eines Apfels)
-
+    
+> eines Apfels)
+    
 -   eine Sitzgelegenheit
 
 -   alle 5 Sinne beisammen
@@ -1269,7 +1270,7 @@ Ausdrücke, die mit einem Sinneskanal verbunden sind.
 
 ### BILD / Zitat der Woche: “Schenke heute allem, was Du tust, Deine volle Aufmerksamkeit”
 
-<img src="media\image10.png" style="width:5.91146in;height:3.32888in" />
+<img src="images\image10.png" style="width:5.91146in;height:3.32888in" />
 Bild von sue\_v67auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -1461,7 +1462,7 @@ fest.
 
 ### BILD / Zitat der Woche: 
 
-<img src="media\image11.png" style="width:6.27083in;height:4.18056in" />
+<img src="images\image11.png" style="width:6.27083in;height:4.18056in" />
 
 Einige Schüler fragen ihren Zen-Meister
 
@@ -1697,7 +1698,7 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche: “Die Geschichte vom Fischer und vom Banker”
 
-<img src="media\image12.png" style="width:4.65104in;height:3.12813in" />  
+<img src="images\image12.png" style="width:4.65104in;height:3.12813in" />  
 Bild von StockSnap auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -1869,7 +1870,7 @@ zu lauschen. Das wahrzunehmen, was geschrieben werden will oder in dem
 Fall gesagt werden will. Vielleicht auch einmal nicht so genau zu
 wissen, wo das Gesagte in dem Moment genau her kommt …
 
-<img src="media\image13.png" style="width:3.76563in;height:2.72816in" />
+<img src="images\image13.png" style="width:3.76563in;height:2.72816in" />
 
 ### Übung: Achtsame Kommunikation *(20 Minuten)*
 
@@ -1945,7 +1946,7 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche: 
 
-<img src="media\image14.png" style="width:5.27604in;height:2.65555in" />  
+<img src="images\image14.png" style="width:5.27604in;height:2.65555in" />  
 Bild von
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -2194,7 +2195,7 @@ die in uns (vielleicht verschlossen) ruhen und nicht gelebt werden. Aus
 diesem Grund, sind Menschen, die negative Gefühle auslösen, auch Engel,
 weil sie auf unverarbeitete oder nicht-gelebte Gefühle hinweisen.
 
-<img src="media\image15.png" style="width:6.27083in;height:4.68056in" />
+<img src="images\image15.png" style="width:6.27083in;height:4.68056in" />
 Bild von
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -2540,7 +2541,7 @@ nicht darin, dass er [tun](http://zitate.net/tun-zitate) kann, was er
 will, sondern, dass er nicht tun muss, was er nicht will. ” Jean-
 Jacques Rousseau
 
-<img src="media\image16.png" style="width:6.27083in;height:1.97222in" />
+<img src="images\image16.png" style="width:6.27083in;height:1.97222in" />
 Bild von geralt auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -2867,7 +2868,7 @@ Albert Schweitzer
 “Misstraue deinem Urteil, sobald du darin den Schatten eines
 persönlichen Motivs entdecken kannst.” Marie von Ebner-Eschenbach
 
-<img src="media\image17.png" style="width:5.22396in;height:5.12213in" />  
+<img src="images\image17.png" style="width:5.22396in;height:5.12213in" />  
 Bild von johnhain auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -3094,7 +3095,7 @@ Nebenzimmer willst.
 
 Keine Zeit! ... ist <u>deine</u> Entscheidung.
 
-<img src="media\image18.png" style="width:6.27083in;height:2.34722in" />
+<img src="images\image18.png" style="width:6.27083in;height:2.34722in" />
 Bild von
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
@@ -3217,7 +3218,7 @@ Das mp3 führt Dich.
 Nimm Dir ein leeres Blatt (Din A4) und falte es 2x, damit Du vier
 Quadranten hast und einen Stift.
 
-<img src="media\image19.png" style="width:4.40625in;height:3.9375in" />&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+<img src="images\image19.png" style="width:4.40625in;height:3.9375in" />&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
 Die Übung läuft dann wie folgt ab:
 
@@ -3240,9 +3241,9 @@ Die Übung läuft dann wie folgt ab:
 > \- Wie soll es weitergehen? Was nehme ich mir für die Zukunft mit?
 
 Zur Erinnerung der Überblick über den Kurs und die Übungen:  
-<img src="media\image3.png" style="width:5.95833in;height:3.16146in" />
+<img src="images\image3.png" style="width:5.95833in;height:3.16146in" />
 
-<img src="media\image4.png" style="width:5.96976in;height:3.25521in" />
+<img src="images\image4.png" style="width:5.96976in;height:3.25521in" />
 
 ### Erfahrungsaustausch (20 Minuten)
 
@@ -3307,7 +3308,7 @@ Kurses. Email-Adressen:
 
 “Es gibt so viele Wege. Geh Deinen eigenen. Immer wieder.”
 
-<img src="media\image20.png" style="width:4.92708in;height:3.09896in" />
+<img src="images\image20.png" style="width:4.92708in;height:3.09896in" />
 
 Bilder von geralt auf
 [<u>Pixabay</u>](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
