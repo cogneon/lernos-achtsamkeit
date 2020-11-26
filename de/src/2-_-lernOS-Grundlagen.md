@@ -1,0 +1,27 @@
+# lernOS Grundlagen
+
+Dieser Leitfaden ist aus dem Lernpfad **lernOS für Dich** abgeleitet. Du
+findest ihn auf der [lernOS Webseite](https://cogneon.de/lernos).
+Er ist frei und offen anpassbar. Er enthält viele Details zu
+grundsätzlichen Strukturen und Herangehensweisen und baut auf folgende
+Prinzipien auf:
+
+-   Eine Lernreise dauert in der Regel 13 Wochen. Sie beginnt mit einer
+    Selbst-Findung der Lerngruppe und endet mit einer Reflexion der
+    Erfahrungen, des Gelernten und des Lernprozesses.
+
+-   Selbstorganisation: Es gibt keinen Organisator, keinen Lehrer oder
+    Trainer. Mehr dazu unter [lernOS Circle: Die Macht von “Peer
+    Support”](#lernos-circle-die-macht-von-peer-support)
+
+-   Die Leitfäden geben Hinweise zum Vorgehen und enthalten Verweise zu
+    weiterführenden, freien Informationen, aber auch zu Büchern, Kursen
+    etc., die nützlich, aber nicht unbedingt notwendig sind.
+
+-   Selbstorganisation kann auch bedeuten, sich bzw. in der Lerngruppe
+    weitere oder andere Inhalte zu erschließen und diese zu integrieren.
+
+-   Der Leitfaden beruht auf der Praxis des motivierten und
+    motivierenden Lernens. Das bedeutet, **jede Woche einen persönlich
+    greifbaren Fortschritt, eine (emotionale) Erfahrung** und eine neue
+    Motivation für Dich.
