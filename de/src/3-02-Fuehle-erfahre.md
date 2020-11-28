@@ -1,3 +1,7 @@
+![](./images/OrangeLine.png)
+
+
+
 ## Woche 2: Fühle und erfahre Dich
 
 In dieser Woche geht es um das Fühlen Deiner Erfahrung im Körper.
@@ -81,8 +85,9 @@ Körper.
 
 Und nun führe die Übung mit Hilfe der gesprochenen Anleitung für Dich
 durch. Es geht im ersten Schritt um die Wahrnehmung dessen was sich
-zeigt und wie es in Dir entsteht.  
-=&gt; siehe mp3 - File oder Live vor Ort.
+zeigt und wie es in Dir entsteht. 
+
+**Audio-Datei [Achtsamkeit42_Woche02_Bodyscan_14min.mp3](https://drive.google.com/file/d/1j8kJ1PWkJqVH8F_omrRfuN6Zo-ge9yeF/view?usp=sharing)**
 
 Der sogenannte Körperscan (Bodyscan) ist als Einleitung von
 Achtsamkeitsübungen hilfreich unter folgenden Aspekten:
@@ -156,10 +161,12 @@ daran zu erinnern.
 
 ### BILD / Zitat der Woche: “Lieben was ist”
 
-Erfahrung ist eine verstandene Wahrnehmung. (Immanuel Kant)
+> Erfahrung ist eine verstandene Wahrnehmung. (Immanuel Kant)
+>
 
-Es gibt nichts zu entdecken, nichts zu erfinden, einzig und alleine eine
-sich wandelnde Wahrnehmung. (Andreas Herteux)
+> Es gibt nichts zu entdecken, nichts zu erfinden, einzig und alleine eine
+> sich wandelnde Wahrnehmung. (Andreas Herteux)
+>
 
 ![](./images/image8.png)
 Bild von sasint auf

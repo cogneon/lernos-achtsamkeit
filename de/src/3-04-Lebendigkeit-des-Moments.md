@@ -1,3 +1,5 @@
+![](./images/OrangeLine.png)
+
 ## Woche 4: Die Lebendigkeit des Moments
 
 In dieser Woche geht es um die Lebendigkeit des Momentes
@@ -53,23 +55,11 @@ Dir als erstes in den Sinn kommt. Kreuze unten in der Tabelle dann den
 entsprechenden Sinneskanal an. Ganz wichtig: Es gibt kein richtig oder
 falsch! Es gibt nur deine Wahrnehmung!
 
-Weihnachten
-
-|       |       |         |           |        |
-|-------|-------|---------|-----------|--------|
-| sehen | hören | riechen | schmecken | fühlen |
-
-Sonnenuntergang
-
-|       |       |         |           |        |
-|-------|-------|---------|-----------|--------|
-| sehen | hören | riechen | schmecken | fühlen |
-
-Wochenende
-
-|       |       |         |           |        |
-|-------|-------|---------|-----------|--------|
-| sehen | hören | riechen | schmecken | fühlen |
+|                 | sehen | hören | riechen | schmecken | fühlen |
+| --------------- | :---: | :---: | :-----: | :-------: | :----: |
+| Weihnachten     |       |       |         |           |        |
+| Sonnenuntergang |       |       |         |           |        |
+| Wochenende      |       |       |         |           |        |
 
 Das Spannende ist, dass wir ganz automatisch beim Durchführen dieser
 kleinen Übung bereits beim Wesentlichen angekommen sind, bei der
@@ -93,16 +83,16 @@ folgende Rosinen-Übung verdeutlicht die [drei
 Grundprinzipien](http://mymindfulmoves.de/mindfulness/mindfulness/) der
 Achtsamkeit.
 
--   **Absichtsvoll sein  
-    **Du nimmst Dir bewusst Zeit und willst die Rosine genießen oder
+-   **Absichtsvoll sein  **
+    Du nimmst Dir bewusst Zeit und willst die Rosine genießen oder
     besser erforschen – nicht mehr aber auch nicht weniger!
 
--   **Jetzt! Hier! handeln  
-    **Die Rosine nimmt Deine ganze Aufmerksamkeit ein, Du bist weder von
+-   **Jetzt! Hier! handeln**
+    Die Rosine nimmt Deine ganze Aufmerksamkeit ein, Du bist weder von
     der Vergangenheit abgelenkt noch auf die Zukunft konzentriert.
 
--   **Nicht werten  
-    **Ob die Rosine ”gut” schmeckt oder ”sauer” ist ein Unterschied.
+-   **Nicht werten**
+    Ob die Rosine ”gut” schmeckt oder ”sauer” ist ein Unterschied.
     Konzentriere Dich auf die Wahrnehmung.
 
 ### Übung: Rosinenübung - mit allen Sinnen *(15 Minuten)*
@@ -111,10 +101,8 @@ Achtsamkeit.
 
 -   15 Minuten, während der Du ungestört bist
 
--   drei Rosinen (oder etwas Ähnliches z.B. Gummibärchen oder ein Stück
+-   drei Rosinen (oder etwas Ähnliches z.B. Gummibärchen oder ein Stück eines Apfels)
     
-> eines Apfels)
-
 -   eine Sitzgelegenheit
 
 -   alle 5 Sinne beisammen
@@ -129,11 +117,11 @@ Lass Dich durch die Übung leiten - Du musst nicht auf Zeit und Erklärung
 achten. Konzentriere dich voll und ganz auf deine Sinneswahrnehmungen.
 Mache die drei Übungen direkt hintereinander.
 
-**mp3 - Rosinen Übung Teil1**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil1_11min.mp3](https://drive.google.com/file/d/1vBIME3zVSfbcSjwyyyw8QPqaxSwy7Ucf/view?usp=sharing)**
 
-**mp3 - Rosinen Übung Teil2**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil2_1min.mp3](https://drive.google.com/file/d/1VQw9PKmL_c_jJYd4u8tjC_YbKjf4vcKD/view?usp=sharing)**
 
-**mp3 - Rosinen Übung Teil3**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil3_2min.mp3](https://drive.google.com/file/d/1af28gwOoKlSiXSRKaMUEol0BAJHwZ59P/view?usp=sharing)**
 
 TIPP: Wenn ihr in der Gruppe übt, kann jeder für sich die Übung
 machen. Vereinbart eine Zeit, wann ihr weitermacht. Die Übungen dauern

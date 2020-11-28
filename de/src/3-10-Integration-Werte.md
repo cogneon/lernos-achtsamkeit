@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 10: Integration und Werte
 
 In dieser Woche geht es um das Annehmen und die Integration des
@@ -95,77 +99,50 @@ daraus aktiv werden …
 
 ### Übung: Metta Meditation *(20 Minuten)*
 
-Metta- Meditation =&gt; siehe mp3 - File oder folgender Text. Achte
+ Achte
 dabei auf das Gefühl, das in Dir entsteht. Wähle eine der
 Audio-Dateien:  
-A4.2\_Medi-W10-Metta-Medi\_w.mp3 (weibliche Stimme, 13 Min.) und
-A4.2\_Medi-W10-Metta-Medi\_m.mp3 (männliche Stimme, 19 Min.).
+
+- **Audio-Datei [Achtsamkeit42_Woche10-Metta-Medi_Frau_13min.mp3](https://drive.google.com/file/d/1zadSNrD2RW5Z4JkJiNNMy9trF26ghRzb/view?usp=sharing)** 
+- **Audio-Datei [Achtsamkeit42_Woche10_Metta-Medi_Mann_19min.mp3](https://drive.google.com/file/d/16o9UhZFmojwtIz6kCq-vdozZFvzx_n0Y/view?usp=sharing)**
+
+oder benutze den Text:
 
 **Metta-Meditation**
 
 Die einzelnen Sätze werden 2-3 mal wiederholt.
 
-**Ich richte meine Aufmerksamkeit auf mich**
-
-Möge ich gesund sein
-
-Möge ich frei sein von Vorurteil und Bewertung
-
-Möge ich erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Möge ich glücklich sein
-
-**Ich richte meine Aufmerksamkeit auf einen mir nahestehenden Menschen**
-
-Mögest du gesund sein
-
-Mögest du frei sein von Vorurteil und Bewertung
-
-Mögest du erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Mögest du glücklich sein
-
-**Ich richte meine Aufmerksamkeit auf einen Menschen, mit dem ich einen
-Konflikt oder eine Meinungsverschiedenheit habe**
-
-Mögest du gesund sein
-
-Mögest du frei sein von Vorurteil und Bewertung
-
-Mögest du erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Mögest du glücklich sein
-
-**Ich richte meine Aufmerksamkeit auf die Menschen in meinem
-Lebensumfeld**
-
-Möget ihr gesund sein
-
-Möget ihr frei sein von Vorurteil und Bewertung
-
-Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Möget ihr glücklich sein
-
-**Ich richte meine Aufmerksamkeit auf all Menschen**
-
-Möget ihr gesund sein
-
-Möget ihr frei sein von Vorurteil und Bewertung
-
-Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Möget ihr glücklich sein
-
-**Ich richte meine Aufmerksamkeit auf alle Wesen dieser Welt**
-
-Möget ihr gesund sein
-
-Möget ihr frei sein von Vorurteil und Bewertung
-
-Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen
-
-Möget ihr glücklich sein
+> - **Ich richte meine Aufmerksamkeit auf mich ...**
+>   - Möge ich gesund sein.
+>   - Möge ich frei sein von Vorurteil und Bewertung.
+>   - Möge ich erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Möge ich glücklich sein.
+> - **Ich richte meine Aufmerksamkeit auf einen mir nahestehenden Menschen ...**
+>   - Mögest du gesund sein.
+>   - Mögest du frei sein von Vorurteil und Bewertung.
+>   - Mögest du erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Mögest du glücklich sein.
+> - **Ich richte meine Aufmerksamkeit auf einen Menschen, mit dem ich einen  Konflikt oder eine Meinungsverschiedenheit habe ...**
+>   - Mögest du gesund sein.
+>   - Mögest du frei sein von Vorurteil und Bewertung.
+>   - Mögest du erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Mögest du glücklich sein.
+> - **Ich richte meine Aufmerksamkeit auf die Menschen in meinem
+  Lebensumfeld ..**
+>   - Möget ihr gesund sein.
+>   - Möget ihr frei sein von Vorurteil und Bewertung.
+>   - Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Möget ihr glücklich sein.
+>- **Ich richte meine Aufmerksamkeit auf alle Menschen ...**
+>   - Möget ihr gesund sein.
+>   - Möget ihr frei sein von Vorurteil und Bewertung.
+>   - Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Möget ihr glücklich sein.
+> - **Ich richte meine Aufmerksamkeit auf alle Wesen dieser Welt ...**
+>   - Möget ihr gesund sein.
+>   - Möget ihr frei sein von Vorurteil und Bewertung.
+>   - Möget ihr erfüllt sein mit Dankbarkeit, Liebe und Vertrauen.
+>   - Möget ihr glücklich sein.
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
@@ -199,13 +176,14 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche
 
-“Ich bin Leben, das leben will, inmitten von Leben, das leben will ”
-Albert Schweitzer
+> “Ich bin Leben, das leben will, inmitten von Leben, das leben will ”
+> Albert Schweitzer
 
-“Die Quelle des Glücks ist das gute Herz.” Dalai Lama
+> “Die Quelle des Glücks ist das gute Herz.” Dalai Lama
+>
 
-“Misstraue deinem Urteil, sobald du darin den Schatten eines
-persönlichen Motivs entdecken kannst.” Marie von Ebner-Eschenbach
+> “Misstraue deinem Urteil, sobald du darin den Schatten eines
+> persönlichen Motivs entdecken kannst.” Marie von Ebner-Eschenbach
 
 ![](./images/image17.png)
 Bild von johnhain auf
@@ -239,13 +217,13 @@ Bild von johnhain auf
     [https://www.youtube.com/watch?v=gSE1K4DkBRk](https://www.youtube.com/watch?v=gSE1K4DkBRk)
 
 -   Artikel zum Mitgefühl aus “Psychologie heute”:
-    h[ttps://www.psychologie-heute.de/leben/38818-mitgefuehl.html](https://www.psychologie-heute.de/leben/38818-mitgefuehl.html)
+    [https://www.psychologie-heute.de/leben/38818-mitgefuehl.html](https://www.psychologie-heute.de/leben/38818-mitgefuehl.html)
 
 -   Mitgefühl vs. Mitleid: Artikel von 7Mind (inkl. Podcast: 25:40Min.)
     [https://www.7mind.de/magazin/mitgefuehl-vs-mitleid-warum-der-unterschied-entscheidend-ist](https://www.7mind.de/magazin/mitgefuehl-vs-mitleid-warum-der-unterschied-entscheidend-ist)
 
 -   9 Attitudes Jon Kabat Zinn (26:27Min.)
-    [ttps://www.youtube.com/watch?v=2n7FOBFMvXg](https://www.youtube.com/watch?v=2n7FOBFMvXg)
+    [https://www.youtube.com/watch?v=2n7FOBFMvXg](https://www.youtube.com/watch?v=2n7FOBFMvXg)
 
 -   Interview mit Matthieu Ricard (57:23Min.): vom Wissenschaftler zum
     buddhistischen Mönch

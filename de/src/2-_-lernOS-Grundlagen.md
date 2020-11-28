@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 # lernOS Grundlagen
 
 Dieser Leitfaden ist aus dem Lernpfad **lernOS für Dich** abgeleitet. Du
@@ -22,6 +26,7 @@ Prinzipien auf:
     weitere oder andere Inhalte zu erschließen und diese zu integrieren.
 
 -   Der Leitfaden beruht auf der Praxis des motivierten und
-    motivierenden Lernens. Das bedeutet, **jede Woche einen persönlich
-    greifbaren Fortschritt, eine (emotionale) Erfahrung** und eine neue
-    Motivation für Dich.
+    motivierenden Lernens. Das bedeutet jede Woche einen **persönlich**
+    **greifbaren Fortschritt**, eine **(emotionale) Erfahrung** und eine **neue**
+    **Motivation** für Dich.
+

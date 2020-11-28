@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 3: Ablenkung und Widerstände … Ich bleibe fokussiert
 
 In dieser Woche geht es um das fokussiert bleiben und den Umgang mit
@@ -94,7 +98,7 @@ Gedanken. Und auch das Beobachten, Bewerten und die Ablenkungen.
 Beobachte bei der Übung immer wieder, woran Du gerade denkst, was in Dir
 vorgeht.
 
-=&gt; siehe Meditation (mp3) zur Woche 3.
+**Audio-Datei [Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3](https://drive.google.com/file/d/1WyKZ9HB2MZtKM8C-hyPXlyK75TpelcWg/view?usp=sharing)**
 
 ### Erfahrungsaustausch *(10 Minuten)*
 

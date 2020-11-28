@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 8: Schatten Teil 1 - Erkennen deiner eigenen Trigger
 
 In dieser Woche geht es um das Erkennen von Dingen, die Dich nerven
@@ -87,7 +91,11 @@ darauf zu richten, was bei Dir spezielle Gefühle auslöst.
 
 Nimm dir Papier und Stift zur Hand.
 
-Höre dir das Audio A4.2\_Medi-W8\_SchattenTeil1.mp3 an, so dass du es
+Höre dir das Audio 
+
+**[Achtsamkeit42_Woche08_SchattenTeil1_12min.mp3](https://drive.google.com/file/d/13IDV_l_PNT36r6VfXcjvDw3FWvyy2wC9/view?usp=sharing)** 
+
+so an, dass du es
 anhalten kannst, wenn du Zeit brauchst, tiefer in dich reinzuspüren.
 Notiere, was in dir starke Gefühle auslöst, was dich triggert. Was sind
 Deine Top 3-Trigger?
@@ -143,10 +151,12 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche: 
 
-“Du regst dich niemals aus dem Grund auf, aus dem du denkst, dich
-aufzuregen” aus “Ein Kurs in Wundern”
+> “Du regst dich niemals aus dem Grund auf, aus dem du denkst, dich
+> aufzuregen” 
+> aus “Ein Kurs in Wundern”
 
-“Finde Frieden mit Deinen ‘Arschengeln’”
+> “Finde Frieden mit Deinen ‘Arschengeln’ ”
+>
 
 Den Begriff „Arschengel“ verwendet Robert Betz, da die Menschen, die
 negative Gefühle in uns auslösen, meistens als „Arsch“ bezeichnet und
@@ -183,8 +193,7 @@ Bild von
 -   Robert Betz: Anleitung zum bewussten Fühlen Teil 2: Emotionen (13
     Min.):
     [https://www.youtube.com/watch?v=BO-GIv58ujQ](https://www.youtube.com/watch?v=BO-GIv58ujQ)
-    =&gt;
-
+    
 -   Wofür wir “Arsch-Engel” brauchen – So bringst du dein Leben ins
     Gleichgewicht von Robert Betz (25Min.):
     [https://www.youtube.com/watch?v=FK05ECySEpE](https://www.youtube.com/watch?v=FK05ECySEpE)
@@ -199,125 +208,44 @@ Alternative zur Übung: Drucke den folgenden Text aus. Lies ihn dir
 (laut) vor oder lasse ihn Dir vorlesen (am besten von deinem Partner
 oder deinem Kind - die werden viel Spaß haben :-)
 
-*Du bist …*
+| Du bist ...          |                       |                         |
+| -------------------- | --------------------- | ----------------------- |
+| ... geizig           | ... schwach           | ... ein Jammerlappen    |
+| ... gehässig         | ... ein Angsthase     | ... selbstzerstörerisch |
+| ... ein Versager     | ... perfektionistisch | ... leer                |
+| ... feige            | ... herzlos           | ... raffgierig          |
+| ... faul             | ... verschlagen       | ... ein Prolet          |
+| ... hinterhältig     | ... nachtragend       | ... ein Tyrann          |
+| ... schuld           | ... dominant          | ... ein Macho           |
+| ... unfair           | ... unterwürfig       | ... sadistisch          |
+| ... hinterlistig     | ... ein Übertreiber   | ... engstirnig          |
+| ... oberflächlich    | ... ein Streber       | ... ein Dickschädel     |
+| ... gedankenlos      | ... machthungrig      | ... maßlos              |
+| ... starr            | ... machtlos          | ... enttäuschend        |
+| ... ängstlich        | ... geschmacklos      | ... nichts wert         |
+| ... ein Verlierer    | ... ungebildet        | ... streitsüchtig       |
+| ... ein Zyniker      | ... ein Betrüger      | ... grob                |
+| ... unflexibel       | ... ignorant          | ... ein Narzisst        |
+| ... hochnäsig        | ... seelenlos         | ... ein Egoist          |
+| ... arrogant         | ... wertlos           | ... ein Langweiler      |
+| ... unreif           | ... neidisch          | ... ein Spieler         |
+| ... inkompetent      | ... schamlos          | ... ein Schnüffler      |
+| ... kleinlich        | ... schmutzig         | ... ein Weiberheld      |
+| ... unbedeutend      | ... alt               | ... ein Frauenhasser    |
+| ... skrupellos       | ... bösartig          | ... ein Sexist          |
+| ... unehrlich        | ... kalt              | ... ein Möchtegern      |
+| ... zwanghaft        | ... uninteressant     | ... eine Heulsuse       |
+| ... ein Opfer        | ... ein Manipulator   | ... ein Arschloch       |
+| ... ein Täter        | ... lächerlich        | ... eine Quasselstrippe |
+| ... zänkisch         | ... nicht gut genug   | ... paranoid            |
+| ... kindisch         | ... unsicher          | ... zickig              |
+| ... egoistisch       | ... scheinheilig      | ... Mittelmaß           |
+| ... blöd             | ... erbärmlich        | ... unzuverlässig       |
+| ... dumm             | ... unversöhnlich     | ... das Letzte          |
+| ... langweilig       | ... leer              | ... verantwortungslos   |
+| ... taktlos          | ... dickhäutig        | ... mutlos              |
+| ... beleidigend      | ... ein Taugenichts   | ... verzweifelt ...     |
+| ... unpünktlich      | ... ein Dieb          |                         |
+| ... unverantwortlich | ... ein Heuchler      | Finde deine             |
+| ... kleinlich        | ... missgünstig       | eigenen Sätze           |
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>... geizig</p>
-<p>... gehässig</p>
-<p>... ein Versager</p>
-<p>... feige</p>
-<p>... faul</p>
-<p>... hinterhältig</p>
-<p>... schuld</p>
-<p>... unfair</p>
-<p>... hinterlistig</p>
-<p>... oberflächlich</p>
-<p>... gedankenlos</p>
-<p>... starr</p>
-<p>... ängstlich</p>
-<p>... ein Verlierer</p>
-<p>... ein Zyniker</p>
-<p>... unflexibel</p>
-<p>... hochnäsig</p>
-<p>... arrogant</p>
-<p>... unreif</p>
-<p>... inkompetent</p>
-<p>... kleinlich</p>
-<p>... unbedeutend</p>
-<p>... skrupellos</p>
-<p>... unehrlich</p>
-<p>... zwanghaft</p>
-<p>... ein Opfer</p>
-<p>... ein Täter</p>
-<p>... zänkisch</p>
-<p>... kindisch</p>
-<p>... egoistisch</p>
-<p>... blöd</p>
-<p>... dumm</p>
-<p>... langweilig</p>
-<p>... taktlos</p>
-<p>... beleidigend</p>
-<p>... unpünktlich</p>
-<p>... unverantwortlich</p>
-<p>... kleinlich</p></td>
-<td><p>... schwach</p>
-<p>... ein Angsthase</p>
-<p>... perfektionistisch</p>
-<p>... herzlos</p>
-<p>... verschlagen</p>
-<p>... nachtragend</p>
-<p>... dominant</p>
-<p>... unterwürfig</p>
-<p>... ein Übertreiber</p>
-<p>... ein Streber</p>
-<p>... machthungrig</p>
-<p>... machtlos</p>
-<p>... geschmacklos</p>
-<p>... ungebildet</p>
-<p>... ein Betrüger</p>
-<p>... ignorant</p>
-<p>... seelenlos</p>
-<p>... wertlos</p>
-<p>... neidisch</p>
-<p>... schamlos</p>
-<p>... schmutzig</p>
-<p>... alt</p>
-<p>... bösartig</p>
-<p>... kalt</p>
-<p>... uninteressant</p>
-<p>... ein Manipulator</p>
-<p>... lächerlich</p>
-<p>... nicht gut genug</p>
-<p>... unsicher</p>
-<p>... scheinheilig</p>
-<p>... erbärmlich</p>
-<p>... unversöhnlich</p>
-<p>... leer</p>
-<p>... dickhäutig</p>
-<p>... ein Taugenichts</p>
-<p>... ein Dieb</p>
-<p>... ein Heuchler</p>
-<p>... missgünstig</p></td>
-<td><p>... ein Jammerlappen</p>
-<p>... selbstzerstörerisch</p>
-<p>... leer</p>
-<p>... raffgierig</p>
-<p>... ein Prolet</p>
-<p>... ein Tyrann</p>
-<p>... ein Macho</p>
-<p>... sadistisch</p>
-<p>... engstirnig</p>
-<p>... ein Dickschädel</p>
-<p>... maßlos</p>
-<p>... enttäuschend</p>
-<p>... nichts wert</p>
-<p>... streitsüchtig</p>
-<p>... grob</p>
-<p>... ein Narzisst</p>
-<p>... ein Egoist</p>
-<p>... ein Langweiler</p>
-<p>... ein Spieler</p>
-<p>... ein Schnüffler</p>
-<p>... ein Weiberheld</p>
-<p>... ein Frauenhasser</p>
-<p>... ein Sexist</p>
-<p>... ein Möchtegern</p>
-<p>... eine Heulsuse</p>
-<p>... ein Arschloch</p>
-<p>... eine Quasselstrippe</p>
-<p>... paranoid</p>
-<p>... zickig</p>
-<p>... Mittelmaß</p>
-<p>... unzuverlässig</p>
-<p>... das Letzte</p>
-<p>... verantwortungslos</p>
-<p>... mutlos</p>
-<p>... verzweifelt ...</p>
-<p>Finde deine eigenen Sätze.</p></td>
-</tr>
-</tbody>
-</table>
-
-<span id="_heading=h.b6mcuearhs8v" class="anchor"></span>

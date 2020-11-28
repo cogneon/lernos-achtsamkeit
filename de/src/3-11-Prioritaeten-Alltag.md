@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 11: Achtsamkeit und Prioritäten im Alltag
 
 In dieser Woche geht es um Prioritäten im Alltag
@@ -133,11 +137,13 @@ Deine Selbstregulierung das Gleichgewicht finden. Mehr und mehr lebst Du
 aus der Mitte heraus. Jiddu Krishnamurti sagte dazu einmal: “perception
 becomes action.”
 
-Führe jetzt die Übung mit Hilfe der Audiodatei durch. Mache anschließend
+Führe jetzt die Übung durch. 
+
+**Audio-Datei [Achtsamkeit42_Woche11_Priorisieren_17min.mp3](https://drive.google.com/file/d/1UNh2EIYfgQGJxHYgMFo6OD2IavAPUxRm/view?usp=sharing)**
+
+Mache anschließend
 eine kurze Notiz, welches Thema während der Übung als Wichtigstes
 stehengeblieben ist.
-
-Dauer: 20 Minuten
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
@@ -173,13 +179,14 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche: “Deine Mitte weiß, worauf es ankommt.”
 
-Freiheit bedeutet Verantwortlichkeit; das ist der Grund, warum die
-meisten Menschen sich vor ihr fürchten. George Bernard Shaw
+> Freiheit bedeutet Verantwortlichkeit; das ist der Grund, warum die
+> meisten Menschen sich vor ihr fürchten. George Bernard Shaw
 
-Bevor du mit dem Kopf durch die Wand gehst, mache dir klar, was du im
-Nebenzimmer willst.
+> Bevor du mit dem Kopf durch die Wand gehst, mache dir klar, was du im
+> Nebenzimmer willst.
 
-Keine Zeit! ... ist deine Entscheidung.
+> Keine Zeit! ... ist deine Entscheidung.
+>
 
 ![](./images/image18.png)
 Bild von

@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 5: Achtsamkeit im Handeln
 
 In dieser Woche geht es um das Tun und die Achtsamkeit dabei
@@ -20,22 +24,23 @@ In dieser Woche geht es um das Tun und die Achtsamkeit dabei
 
 ### Check-In *(5 Minuten)*
 
-Wie geht es Dir gerade?
+- Wie geht es Dir gerade?
 
-Was beschäftigt Dich zurzeit?
+- Was beschäftigt Dich zurzeit?
 
-Hinweis: Es geht hier um das Ankommen und die Verbindung in der Gruppe.
+- Hinweis: Es geht hier um das Ankommen und die Verbindung in der Gruppe.
+
 
 ### Austausch / Reflexion *(10 Minuten)*
 
-Wie ist Dir die Umsetzung gelungen?
+- Wie ist Dir die Umsetzung gelungen?
 
-Hast Du Besonderheiten bei der Wahrnehmung der Sinneskanäle
-festgestellt? Hast Du einen bevorzugten Sinneskanal gefunden?
+- Hast Du Besonderheiten bei der Wahrnehmung der Sinneskanäle
+  festgestellt? Hast Du einen bevorzugten Sinneskanal gefunden?
+- Was ist Dir leicht gefallen? Welche Hindernisse gab es?
 
-Was ist Dir leicht gefallen? Welche Hindernisse gab es?
+- Welche Erwartungen hast Du für diese Einheit?
 
-Welche Erwartungen hast Du für diese Einheit?
 
 ### Thema: Achtsamkeit im Handeln *(10 Minuten)*
 
@@ -59,17 +64,17 @@ Woher kommen die Impulse, den nächsten Schritt zu gehen?
 Nimm Dir drei Minuten und mache ein paar Stichpunkte zu den bisher
 adressierten Themen. Was fällt Dir besonders auf - jetzt, wo Du darüber
 nachdenkst?
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Stellt Eure Ergebnisse in einem kurzen Austausch nebeneinander (2
-Minuten).
+Stellt Eure Ergebnisse in einem kurzen Austausch nebeneinander (2 Minuten).
 
 Bei der heutigen Übung geht es um die Achtsamkeit im Handeln. Wir lenken
 die Wahrnehmung gezielt in den Körper zu den Übergängen in einzelne
@@ -118,7 +123,7 @@ Schaue das Video mit Nicole Appel (Dauer ca. 5 Minuten) an und übe
 anschließend für 10 Minuten für Dich. Achte dabei auf Deine
 Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
 
-=&gt; siehe Video zur Geh- Meditation
+**Video-Datei [Achtsamkeit42_Woche05_Gehmeditation_5min.mp4](https://drive.google.com/file/d/1af28gwOoKlSiXSRKaMUEol0BAJHwZ59P/view?usp=sharing)**
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
@@ -139,7 +144,7 @@ sich wiederholende Aspekte zu gewinnen.
 Willst Du Diese Übung für diese Woche täglich / regelmäßig machen?
 
 Beobachte in der Woche öfter mal Deine Aufmerksamkeit in der Handlung.
-Halte z.B. bei einer Handlung inne und mache sie langsamer mit der
+Halte z. B. bei einer Handlung inne und mache sie langsamer mit der
 Wahrnehmung auf den gegenwärtigen Moment. Was nimmt Du dabei wahr? Ist
 das gerade stimmig für Dich? Kannst Du einen für Dich passenden Weg
 finden, die Handlung auszuführen. Schneller oder langsamer, variiere
@@ -160,46 +165,19 @@ fest.
 
 ![](./images/image11.png)
 
-Einige Schüler fragen ihren Zen-Meister
-
-warum er so zufrieden und glücklich ist:
-
-Der Zen-Meister antwortet:
-
-“Wenn ich stehe, dann stehe ich, wenn ich
-
-gehe, dann gehe ich, wenn ich sitze, dann
-
-sitze ich, wenn ich esse, dann esse ich,
-
-wenn ich liebe, dann liebe ich …”
-
-“Das tun wir auch, antworteten seine
-
-Schüler, aber was machst Du darüber
-
-hinaus?” fragten Sie erneut.
-
-Der Meister erwiderte:
-
-“Wenn ich stehe, dann stehe ich, wenn ich
-
-gehe, dann gehe ich, wenn ich … ”
-
-Wieder sagten seine Schüler:
-
-“Aber das tun wir doch auch Meister!”
-
-Er aber sagte zu seinen Schülern:
-
-“Nein – wenn ihr sitzt, dann steht ihr schon,
-
-wenn ihr steht, dann lauft ihr schon, wenn
-
-ihr lauft, dann seid ihr schon am Ziel.”
-
-aus:
-[http://www.achtsamkeit-hd.de/achtsamkeit.html](http://www.achtsamkeit-hd.de/achtsamkeit.html)
+>  Einige Schüler fragen ihren Zen-Meister, warum er so zufrieden und glücklich ist:
+>
+> Der Zen-Meister antwortet: “Wenn ich stehe, dann stehe ich, wenn ich gehe, dann gehe ich, wenn ich sitze, dann sitze ich, wenn ich esse, dann esse ich, wenn ich liebe, dann liebe ich …”
+>
+> “Das tun wir auch, antworteten seine Schüler, aber was machst Du darüber hinaus?” fragten Sie erneut.
+>
+> Der Meister erwiderte: “Wenn ich stehe, dann stehe ich, wenn ich gehe, dann gehe ich, wenn ich ...”
+>
+> Wieder sagten seine Schüler: “Aber das tun wir doch auch Meister!”
+>
+> Er aber sagte zu seinen Schülern: “Nein – wenn ihr sitzt, dann steht ihr schon, wenn ihr steht, dann lauft ihr schon, wenn ihr lauft, dann seid ihr schon am Ziel.”
+>
+> aus: [http://www.achtsamkeit-hd.de/achtsamkeit.html](http://www.achtsamkeit-hd.de/achtsamkeit.html)
 
 ### Weiterführende Links:
 

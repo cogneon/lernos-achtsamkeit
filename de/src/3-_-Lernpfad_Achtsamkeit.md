@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 # Lernpfad Achtsamkeit
 
 **Persönlicher Nutzen – für wen geeignet?**
@@ -58,29 +62,30 @@
 -   Evtl. Begleitung: Coaching, Kick-off und Abschlussveranstaltung
     =&gt; Feedback
 
-**Übersicht über die Themen und Praktiken der 12 Wochen:**
+### Die Themen und Praktiken der 12 Wochen
 
 ![](./images/image3.png)
 
 ![](./images/image4.png)
 
+
+
+### Die wöchentlichen Circle-Treffen
+
 Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
 
+![](./images/image5.png)
+
+
+
 -   **Check-In:** Fokusfragen zu „Wie geht es Dir gerade“? (5 Minuten)
-
 -   **Austausch / Reflexion**: Leitfragen (10 Minuten)
-
 -   **Thema**: Theorie – ganz knapp (ca. 5 Minuten)
-
 -   **Übung**: z. B. Bodyscan (ca. 20 Minuten)
-
 -   **Erfahrungsaustausch**: Leitfragen „Wie ging‘s mir dabei?“ (10
     Minuten)
-
 -   **Was nehme ich mir vor**: Sammlung von Anregungen (5 Minuten)
-
 -   **Check-out** (5 Minuten)
-
 -   **Bild / Zitat der Woche und weiterführende Links**: weitere
     Informationen zur eigenen Vertiefung und Reflexion
 
@@ -88,4 +93,5 @@ Ausnahme: für das erste Treffen “[Woche 0: der Circle gründet
 sich](#woche-0-der-circle-gründet-sich)” solltet ihr euch 90 Minuten
 Zeit einplanen.
 
-![](./images/image5.png)
+Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. Oder auch [hier](https://drive.google.com/drive/folders/1vVwrUSPgrFaM5TwOoTIiRqn1fzF2jFhB?usp=sharing).
+

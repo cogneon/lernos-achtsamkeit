@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 12: Am Ende steht der Anfang - gemeinsamer Austausch
 
 In dieser Woche ist das Ende des Kurses und Gleichzeitig wieder ein
@@ -72,14 +76,15 @@ festlegen oder entstehen lassen. Es gibt so viele Möglichkeiten ...
 
 In dieser Übung geht es darum die Verbindung zwischen dem, was der
 Vorsatz zu Beginn des Kurses war und dem, was nun folgt herzustellen.
-Das mp3 führt Dich.
 
 Nimm Dir ein leeres Blatt (Din A4) und falte es 2x, damit Du vier
 Quadranten hast und einen Stift.
 
 ![](./images/image19.png)
 
-Die Übung läuft dann wie folgt ab:
+**Audio-Datei [Achtsamkeit42_Woche12_Spiralübung_10min.mp3](https://drive.google.com/file/d/1exIDNOnUho3mJilg8dlQcDANuBrVOFGj/view?usp=sharing)**
+
+Das Audio führt Dich:
 
 1.  Fokussiertes Tun (eine Spirale in die Mitte des Blattes
     malen; dabei in den vier Quadranten Platz für Text lassen) =&gt; 2
@@ -163,9 +168,11 @@ Kurses. Email-Adressen:
 
 ### BILD / Zitat der Woche
 
-“Befreiung entsteht durch Hingabe, nicht durch Einsicht des Verstandes”
+> “Befreiung entsteht durch Hingabe, nicht durch Einsicht des Verstandes”
+>
 
-“Es gibt so viele Wege. Geh Deinen eigenen. Immer wieder.”
+> “Es gibt so viele Wege. Geh Deinen eigenen. Immer wieder.”
+>
 
 ![](./images/image20.png)
 

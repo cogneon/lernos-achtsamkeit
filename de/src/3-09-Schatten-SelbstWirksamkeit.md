@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 9: Schatten Teil 2 - (Selbst-) Wirksamkeit
 
 In dieser Woche geht es um Wirksamkeit und Selbst-Wirksamkeit
@@ -101,30 +105,82 @@ bewusst – er erlaubt sich nicht, sie zu sehen.
 
 Die heutige Übung soll dabei unterstützen etwas von den durch Schatten
 verwehrten Optionen zurückzugewinnen. Dazu setzen wir die aus der
-[Woche 6](#woche-6-check-up-und-reflexion) bekannte Technik des
-Journaling ein. Erfahrungsgemäß ist es günstig, zunächst den mit dem
-Schatten gekoppelten Vorwurf zu akzeptieren, als sei er berechtigt und
+[Woche 6](#woche-6-check-up-und-reflexion) bekannte Technik des **Journaling** ein. Erfahrungsgemäß ist es günstig, zunächst den mit dem Schatten gekoppelten Vorwurf zu akzeptieren, als sei er berechtigt und
 wahr.
 
 Wähle dazu „deinen“ Vorwurf oder einen der markierten Vorwürfe aus und
 schreibe ihn in der Akzeptanzform („ich bin …“) auf ein Blatt.
 
-Führe jetzt die Übung mit der Audio-Datei
-A4.2\_Medi-W9\_Schatten-Journalling.mp3 durch. Du wirst dabei durch den
+Führe jetzt die Übung durch.
+
+**Audio-Datei [Achtsamkeit42_Woche09-Schatten-Journaling_20min.mp3](https://drive.google.com/file/d/1iWXheGK_B92RHBJJ7XT-r0Z5aIOfUqKS/view?usp=sharing)**
+
+Du wirst dabei durch den
 Prozess geleitet. Du kannst nach der Übung noch weiter reflektieren und
 Dir weitere Erkenntnisse und Ideen aufschreiben.
 
 Hier kannst du mit deinem neuen Satz/Verhalten noch weiterarbeiten:
 
-| Wo genau kann dir das neue Verhalten, der neue Glaubenssatz, zur Seite stehen? Welche Situationen fallen dir dazu ein? Notiere diese.                                      |     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Was tust, sagst du konkret in diesen Situationen? Wie ist deine Gestik, Mimik, Haltung? Welche Gedanken hast du?                                                           |     |
-| Wie fühlt sich dieses neue Verhalten für dich an?                                                                                                                          |     |
-| Was bringt es dir für weitere Vorteile?                                                                                                                                    |     |
-| Was haben andere davon?                                                                                                                                                    |     |
-| Wie verändert sich dadurch die gesamte Situation?                                                                                                                          |     |
-| Wie willst du dieses neue Verhalten künftig in dein Leben integrieren?                                                                                                     |     |
-| Sei geduldig mit dir, wenn du wieder in alte Gewohnheiten zurück fällst. Gehe in die Situation hinein und fühle nach. Schau, wie du die neue Gewohnheit etablieren kannst. |     |
+> **Wo genau kann dir das neue Verhalten, der neue Glaubenssatz, zur Seite stehen? Welche Situationen fallen dir dazu ein? Notiere diese.**
+> 
+> Was tust, sagst du konkret in diesen Situationen? Wie ist deine Gestik, Mimik, Haltung? 
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Welche Gedanken hast du?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+>
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Wie fühlt sich dieses neue Verhalten für dich an?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Was bringt es dir für weitere Vorteile?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Was haben andere davon?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Wie verändert sich dadurch die gesamte Situation?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Wie willst du dieses neue Verhalten künftig in dein Leben integrieren?
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> 
+> Sei geduldig mit dir, wenn du wieder in alte Gewohnheiten zurück fällst. Gehe in die Situation hinein und fühle nach. Schau, wie du die neue Gewohnheit etablieren kannst.
 
 Du kannst auch sich wiederholende Vorwürfe aus Familie und vom Partner
 auf diese Weise bearbeiten. Vielleicht magst Du auch Dein Vorgehen mit
@@ -174,10 +230,10 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche 
 
-“Die Freiheit des [Menschen](http://zitate.net/menschen-zitate) liegt
-nicht darin, dass er [tun](http://zitate.net/tun-zitate) kann, was er
-will, sondern, dass er nicht tun muss, was er nicht will. ” Jean-
-Jacques Rousseau
+> “Die Freiheit des [Menschen](http://zitate.net/menschen-zitate) liegt
+> nicht darin, dass er [tun](http://zitate.net/tun-zitate) kann, was er
+> will, sondern, dass er nicht tun muss, was er nicht will. ” Jean-
+> Jacques Rousseau
 
 ![](./images/image16.png)
 Bild von geralt auf
@@ -194,12 +250,12 @@ Bild von geralt auf
     innerlich bewusst, dass das auch geklappt hat. Probiere das mal für
     2-10 Minuten aus. Wie fühlst Du Dich dabei?
 
--   The Work von Byron Katie =&gt;
-    [https://thework.com/sites/de/](https://thework.com/sites/de/)  
+-   The Work von Byron Katie:
+    [https://thework.com/sites/de/](https://thework.com/sites/de/)
     Anleitung zu “The Work”:
     [https://thework.com/wp-content/uploads/2019/03/AnleitungzuTheWork.pdf](https://thework.com/wp-content/uploads/2019/03/AnleitungzuTheWork.pdf)
 
--   3-2-1 Schattenarbeit (mit Übungsanleitung) nach Ken Wilber (9:26Min)
+-   3-2-1 Schattenarbeit (mit Übungsanleitung) nach Ken Wilber (9:26Min):
     [https://www.youtube.com/watch?v=f\_FbkcQ0yhA](https://www.youtube.com/watch?v=f_FbkcQ0yhA)
 
 -   Schatten-Arbeit / Spiegel- Übung =&gt; siehe Youtube von letzer
@@ -207,7 +263,7 @@ Bild von geralt auf
     [https://www.youtube.com/watch?v=pAh3lwYpv\_U](https://www.youtube.com/watch?v=pAh3lwYpv_U)
 
 -   Liebe deinen Schatten \| Talk \| Folge 180 von Veit Lindau (ca.
-    20Min.)
+    20Min.):
     [https://www.youtube.com/watch?v=giq2oFdJI7Q](https://www.youtube.com/watch?v=giq2oFdJI7Q)
 
 **Wenn Du mehr Zeit hast:**
@@ -225,10 +281,10 @@ Bild von geralt auf
 -   [https://www.youtube.com/watch?v=aEbJ\_maF\_fo](https://www.youtube.com/watch?v=aEbJ_maF_fo)
     Vortrag von Tsultrim Allione (ca. 60Min.) über Dämonen nähren.
 
--   erweiterte Übung Schatten- Jounaling (Beschreibung dazu folgt noch):
+-   (noch nicht verfügbar) erweiterte Übung Schatten- Jounaling (Beschreibung dazu folgt noch):
     A4.2\_Medi-W9-SchattenTeil2Journaling.mp3
 
-Detailbeschreibung der Übung von Woche 9:
+**Detailbeschreibung der Übung von Woche 9:**
 
 Die heutige Übung soll dabei unterstützen etwas von den durch Schatten
 verwehrten Optionen zurückzugewinnen. Dazu setzen wir die aus Kapitel 6
@@ -292,7 +348,7 @@ den entsprechenden Personen teilen und es kann gut sein, dass sich
 dadurch Deine Beziehungen verbessern.
 
 Ganz besonders lohnenswert mag die Anwendung dieser Übung in Bezug auf
-Vorwürfe gegenüber anderen sein. Drehe dazu den Vorwurf um, d.h. beziehe
-ihn auf Dich selbst (z.B. “Ich bin ein Verschwörungstheoretiker” oder
+Vorwürfe gegenüber anderen sein. Drehe dazu den Vorwurf um, d. h. beziehe
+ihn auf Dich selbst (z. B. “Ich bin ein Verschwörungstheoretiker” oder
 “Ich bin schlampig”) und führe die Übung in gleicher Weise durch.
 Vielleicht kommt Ihr Euch dabei näher :-).

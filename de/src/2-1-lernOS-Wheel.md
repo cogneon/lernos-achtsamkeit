@@ -1,3 +1,7 @@
+------
+
+
+
 ## lernOS Wheel: Mindset, Skillset und Toolset
 
 Du kannst im Verlauf dieses Lernpfades Deine Einstellung, Deine Werte,

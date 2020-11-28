@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 #  Stop talking, start doing!
 
 Wenn Du diesen Leitfaden gelesen hast und meinst, dass sich das richtig

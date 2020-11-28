@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 1: Energie aufbauen und Klarheit
 
 In dieser Woche geht es um Energieaufbau und Klarheit
@@ -6,7 +10,7 @@ In dieser Woche geht es um Energieaufbau und Klarheit
 
 -   **Austausch / Reflexion:** in der Gruppe *(10 Minuten)*
 
--   **Thema:** Klarheit und Energie-Aufbau *(15 Minuten)*
+-   **Thema:** Klarheit und Energie-Aufbau *(5 Minuten)*
 
 -   **Übung:** Atemübung (20 Minuten)
 
@@ -36,7 +40,7 @@ Probiere mal nur das zu benennen, was gerade in diesem Moment da ist.
 
 -   Welche Erwartungen hast Du für diese Einheit?
 
-### Thema: Klarheit und Energie-Aufbau *(15 Minuten)*
+### Thema: Klarheit und Energie-Aufbau *(5 Minuten)*
 
 Zu Beginn ist es gut, für sich klar zu sein, was für Dich persönlich der
 Grund ist, diesen Kurs zu machen. Es hilft, Dir Deine Motivation bewusst
@@ -66,7 +70,7 @@ die
 -   nicht wertend ist.
 
 Quelle:
-[https://de.wikipedia.org/wiki/Achtsamkeit\_(mindfulness)](https://de.wikipedia.org/wiki/Achtsamkeit_(mindfulness))
+https://de.wikipedia.org/wiki/Achtsamkeit (Mindfulness)
 
 Schaut (gemeinsam) das Video von Doris Zölls an über Achtsamkeit. Redet
 kurz darüber, was es in jedem auslöst:
@@ -78,8 +82,7 @@ den anderen “achtsam” warst. Und gleich weiter üben.
 ### Übung: Atemübung mit Rückkopplung zur Ausrichtung *(20 Minuten)*
 
 In der Übung und auch der anschließenden Meditation geht es um das
-Erspüren Deines Wunsches, Deiner Ausrichtung. Ggf. kommen neue Aspekte
-hinzu.
+Erspüren Deines Wunsches, Deiner Ausrichtung. Vielleicht entdeckst du auch neue Aspekte.
 
 Was wünscht Du Dir von diesem Kurs? Warum machst Du ihn?
 
@@ -90,7 +93,9 @@ Was wünscht Du Dir von diesem Kurs? Warum machst Du ihn?
 -   Wie fühlst Du Dich, wenn Du das formulierst bzw. von den anderen
     hörst?
 
-Macht (gemeinsam) die Meditation (mp3 - File) zur Woche 1
+Macht (gemeinsam) die **Meditation**:
+
+**Audio-Datei [Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3](https://drive.google.com/file/d/1exIDNOnUho3mJilg8dlQcDANuBrVOFGj/view?usp=sharing)**
 
 ### Erfahrungsaustausch *(10 Minuten)*
 

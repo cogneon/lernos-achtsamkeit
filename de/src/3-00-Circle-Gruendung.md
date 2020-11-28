@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 0: Der Circle gründet sich
 
 Im ersten Treffen finden sich die Menschen, die diese Reise gemeinsam

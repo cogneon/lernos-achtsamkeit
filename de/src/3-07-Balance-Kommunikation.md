@@ -1,3 +1,7 @@
+
+
+![](./images/OrangeLine.png)
+
 ## Woche 7: Balance und achtsame Kommunikation
 
 In dieser Woche geht es um die Balance und verschiedene Perspektiven
@@ -156,46 +160,47 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 Bild von
 [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2847508)
 
-Es waren einmal fünf weise Gelehrte. Sie alle waren blind. Diese
-Gelehrten wurden von ihrem König auf eine Reise geschickt und sollten
-herausfinden, was ein Elefant ist. Und so machten sich die Blinden auf
-die Reise nach Indien. Dort wurden sie von Helfern zu einem Elefanten
-geführt. Die fünf Gelehrten standen nun um das Tier herum und
-versuchten, sich durch Ertasten ein Bild von dem Elefanten zu machen.
-
-Als sie zurück zu ihrem König kamen, sollten sie ihm nun über den
-Elefanten berichten. Der erste Weise hatte am Kopf des Tieres gestanden
-und den Rüssel des Elefanten betastet. Er sprach: "Ein Elefant ist wie
-ein langer Arm."
-
-Der zweite Gelehrte hatte das Ohr des Elefanten ertastet und sprach:
-"Nein, ein Elefant ist vielmehr wie ein großer Fächer."
-
-Der dritte Gelehrte sprach: "Aber nein, ein Elefant ist wie eine dicke
-Säule." Er hatte ein Bein des Elefanten berührt.
-
-Der vierte Weise sagte: "Also ich finde, ein Elefant ist wie eine kleine
-Strippe mit ein paar Haaren am Ende", denn er hatte nur den Schwanz des
-Elefanten ertastet.
-
-Und der fünfte Weise berichtete seinem König: " Also ich sage, ein
-Elefant ist wie ein riesige Masse, mit Rundungen und ein paar Borsten
-darauf." Dieser Gelehrte hatte den Rumpf des Tieres berührt.
-
-Nach diesen widersprüchlichen Äußerungen fürchteten die Gelehrten den
-Zorn des Königs, konnten sie sich doch nicht darauf einigen, was ein
-Elefant wirklich ist. Doch der König lächelte weise: "Ich danke Euch,
-denn ich weiß nun, was ein Elefant ist: Ein Elefant ist ein Tier mit
-einem Rüssel, der wie ein langer Arm ist, mit Ohren, die wie Fächer
-sind, mit Beinen, die wie starke Säulen sind, mit einem Schwanz, der
-einer kleinen Strippe mit ein paar Haaren daran gleicht und mit einem
-Rumpf, der wie eine große Masse mit Rundungen und ein paar Borsten ist."
-
-Die Gelehrten senkten beschämt ihren Kopf, nachdem sie erkannten, daß
-jeder von ihnen nur einen Teil des Elefanten ertastet hatte und sie sich
-zu schnell damit zufrieden gegeben hatten.
-
-Verfasser unbekannt
+> Es waren einmal fünf weise Gelehrte. Sie alle waren blind. Diese
+> Gelehrten wurden von ihrem König auf eine Reise geschickt und sollten
+> herausfinden, was ein Elefant ist. Und so machten sich die Blinden auf
+> die Reise nach Indien. Dort wurden sie von Helfern zu einem Elefanten
+> geführt. Die fünf Gelehrten standen nun um das Tier herum und
+> versuchten, sich durch Ertasten ein Bild von dem Elefanten zu machen.
+>
+> Als sie zurück zu ihrem König kamen, sollten sie ihm nun über den
+> Elefanten berichten. Der erste Weise hatte am Kopf des Tieres gestanden
+> und den Rüssel des Elefanten betastet. Er sprach: "Ein Elefant ist wie
+> ein langer Arm."
+>
+> Der zweite Gelehrte hatte das Ohr des Elefanten ertastet und sprach:
+> "Nein, ein Elefant ist vielmehr wie ein großer Fächer."
+>
+> Der dritte Gelehrte sprach: "Aber nein, ein Elefant ist wie eine dicke
+> Säule." Er hatte ein Bein des Elefanten berührt.
+>
+> Der vierte Weise sagte: "Also ich finde, ein Elefant ist wie eine kleine
+> Strippe mit ein paar Haaren am Ende", denn er hatte nur den Schwanz des
+> Elefanten ertastet.
+>
+> Und der fünfte Weise berichtete seinem König: " Also ich sage, ein
+> Elefant ist wie ein riesige Masse, mit Rundungen und ein paar Borsten
+> darauf." Dieser Gelehrte hatte den Rumpf des Tieres berührt.
+>
+> Nach diesen widersprüchlichen Äußerungen fürchteten die Gelehrten den
+> Zorn des Königs, konnten sie sich doch nicht darauf einigen, was ein
+> Elefant wirklich ist. Doch der König lächelte weise: "Ich danke Euch,
+> denn ich weiß nun, was ein Elefant ist: Ein Elefant ist ein Tier mit
+> einem Rüssel, der wie ein langer Arm ist, mit Ohren, die wie Fächer
+> sind, mit Beinen, die wie starke Säulen sind, mit einem Schwanz, der
+> einer kleinen Strippe mit ein paar Haaren daran gleicht und mit einem
+> Rumpf, der wie eine große Masse mit Rundungen und ein paar Borsten ist."
+>
+> Die Gelehrten senkten beschämt ihren Kopf, nachdem sie erkannten, daß
+> jeder von ihnen nur einen Teil des Elefanten ertastet hatte und sie sich
+> zu schnell damit zufrieden gegeben hatten.
+>
+> Verfasser unbekannt
+>
 
 ### Weiterführende Links
 
