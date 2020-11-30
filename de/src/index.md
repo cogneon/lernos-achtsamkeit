@@ -1,6 +1,6 @@
 # Vorwort
 
-Der lernOS-Leitfaden **”Achtsamkeit 4.2 - Dein Weg ist das Ziel”** basiert auf dem Leitfaden **lernOS für Dich**, den Du auf der [lernOS Webseite](https://cogneon.de/lernos) findest.
+Der lernOS-Leitfaden **”Achtsamkeit 4.2 - Dein Weg ist das Ziel”** basiert auf dem Leitfaden **lernOS für Dich**, den Du auf https://lernOS.org findest.
 
 Das Verb “lernos” ist die Zukunftsform von “lernen” auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). **lernOS** ist ein **Betriebssystem** für **Lebenslanges Lernen** und **Lernende Organisationen**, es ist keine Software, sondern “Brainware”.
 

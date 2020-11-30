@@ -230,8 +230,8 @@ Wie magst Du in der kommenden Woche mit den Empfehlungen umgehen?
 
 ### BILD / Zitat der Woche 
 
-> “Die Freiheit des [Menschen](http://zitate.net/menschen-zitate) liegt
-> nicht darin, dass er [tun](http://zitate.net/tun-zitate) kann, was er
+> “Die Freiheit des Menschen liegt
+> nicht darin, dass er tun kann, was er
 > will, sondern, dass er nicht tun muss, was er nicht will. ” Jean-
 > Jacques Rousseau
 
@@ -268,8 +268,8 @@ Bild von geralt auf
 
 **Wenn Du mehr Zeit hast:**
 
--   Podcast [Klinikum
-    Nürnberg](https://soundcloud.com/klinikum-n-rnberg) Folge 5: Die
+-   Podcast Klinikum
+    Nürnberg - Folge 5: Die
     5-4-3-2-1-Übung: Stabilisierungstechnik
     [https://soundcloud.com/klinikum-n-rnberg/folge-4-die-5-4-3-2-1-ubung?in=klinikum-n-rnberg/sets/psychologische-hilfe-in](https://soundcloud.com/klinikum-n-rnberg/folge-4-die-5-4-3-2-1-ubung?in=klinikum-n-rnberg/sets/psychologische-hilfe-in)
     (5:51Min.)

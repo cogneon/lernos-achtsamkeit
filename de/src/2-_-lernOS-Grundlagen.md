@@ -5,7 +5,7 @@
 # lernOS Grundlagen
 
 Dieser Leitfaden ist aus dem Lernpfad **lernOS für Dich** abgeleitet. Du
-findest ihn auf der [lernOS Webseite](https://cogneon.de/lernos).
+findest ihn auf [https://lernOS.org](https://lernOS.org), wo immer mehr Leitfäden zu verschiedenen Themen entstehen.
 Er ist frei und offen anpassbar. Er enthält viele Details zu
 grundsätzlichen Strukturen und Herangehensweisen und baut auf folgende
 Prinzipien auf:
