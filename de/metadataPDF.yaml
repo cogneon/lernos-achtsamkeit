@@ -1,0 +1,17 @@
+---
+title: "lernOS Leitfaden Achtsamkeit 4.2"
+subtitle: "Dein Weg ist das Ziel"
+author: [Joachim, Reinhold, Hanne, Hardy, Nicole]
+date: "V0.9 (28.11.2020)"
+titlepage: false
+titlepage-color: "ff6600"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+links-as-notes: true
+lof: false
+toc: false
+toc-own-page: true
+toc-depth: 2
+logo: src/images/lernOS-logo-white-4000px.png
+logo-width: 300
+---
