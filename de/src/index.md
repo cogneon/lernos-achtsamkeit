@@ -27,7 +27,7 @@ Insbesondere danken wir:
 -   **der Working-Out-Loud-Community, John Stepper und Sabine Kluge**
 
 Der lernOS-Leitfaden ”Achtsamkeit 4.2 - Dein Weg ist das Ziel” wurde in
-der Version 1.0 zusammengestellt von
+der Version 1.0 erarbeitet von
 
 -   Joachim
     ([Joachim.Schraud@gmx.de](mailto:Joachim.Schraud@gmx.de))
