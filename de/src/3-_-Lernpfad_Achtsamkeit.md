@@ -50,7 +50,6 @@ Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
 ![](./images/image5.png)
 
 
-
 -   **Check-In:** Fokusfragen zu „Wie geht es Dir gerade“? (5 Minuten)
 -   **Austausch / Reflexion**: Leitfragen (10 Minuten)
 -   **Thema**: Theorie – ganz knapp (ca. 5 Minuten)
