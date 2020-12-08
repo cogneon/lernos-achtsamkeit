@@ -2,7 +2,7 @@
 
 ![](./images/OrangeLine.png)
 
-# Lernpfad Achtsamkeit
+# Achtsamkeit 4.2 - Dein Weg ist das Ziel
 
 **Persönlicher Nutzen – für wen geeignet?**
 
