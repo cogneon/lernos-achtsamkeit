@@ -2,6 +2,7 @@
 
 ![](./images/OrangeLine.png)
 
+# Was ist Achtsamkeit?
 
 Achtsamkeit bedeutet, wahrzunehmen, was gerade – im Augenblick geschieht. Gefühle, Sinneserfahrungen, Gedanken, körperliche Reaktionen – innere und äußere Vorgänge. 
 
