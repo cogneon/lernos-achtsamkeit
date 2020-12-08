@@ -64,3 +64,22 @@ Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
 
 Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. Oder auch [hier](https://drive.google.com/drive/folders/1vVwrUSPgrFaM5TwOoTIiRqn1fzF2jFhB?usp=sharing).
 
+Der lernOS-Leitfaden ”Achtsamkeit 4.2 - Dein Weg ist das Ziel” wurde in
+der Version 1.0 erarbeitet von
+
+-   Joachim
+    ([Joachim.Schraud@gmx.de](mailto:Joachim.Schraud@gmx.de))
+
+-   Reinhold
+    ([Reinhold.Guthier@t-online.de](mailto:Reinhold.Guthier@t-online.de))
+
+-   Hanne ([info@fritzcoaching.de](mailto:info@fritzcoaching.de))
+
+-   Hardy
+    ([harald.lauritsch@gmx.de](mailto:harald.lauritsch@gmx.de))
+
+-   Nicole
+    ([nicole.schwippl@siemens.com](mailto:nicole.schwippl@siemens.com))
+
+Unsere Inspirationen haben wir aus zahllosen Quellen, Büchern und nicht
+zuletzt aus unseren individuellen Wegen zur Achtsamkeit.
