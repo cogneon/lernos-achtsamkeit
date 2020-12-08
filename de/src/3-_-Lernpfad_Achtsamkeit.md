@@ -6,47 +6,26 @@
 
 **Persönlicher Nutzen – für wen geeignet?**
 
--   Menschen, die mehr Klarheit in ihrem Leben wollen
+-   Menschen, die ihr Leben selbst in die Hand nehmen wollen
 
 -   Menschen, die neue Wege suchen, mit der heutigen Welt / Situation
     umzugehen
 
--   Menschen, die ihr Leben selbst in die Hand nehmen wollen
-
 -   Menschen, die mehr über sich selbst lernen wollen
 
--   Menschen, die im Team arbeiten möchten
 
 **Wie kann das gehen?**
 
 -   Einsatz mehrerer verschiedener Techniken, v.a. der Achtsamkeit und
     emotionaler Intelligenz
 
--   Vorhandenes nutzen =&gt; Machen und Erleben! Erfahrungen sammeln!
-
--   Gleich Erleben und Umsetzen und sich darüber austauschen
-
--   Beschreiben eines persönlichen Zieles / Wunsches =&gt; Vision /
-    Ziel-Zustand
-
 -   Sich selbst besser kennenlernen =&gt; Persönlichen Lern-Typ
     erfahren, Muster, …
-
--   Ggfs. Inhalte in der Gruppe selbst erarbeiten und gestalten =&gt;
-    lernOS
-
--   Mit-Gestalten des Ablaufs und Gestalten des eigenen Weges =&gt;
-    einen Beitrag leisten und verschiedene Ansätze testen und den für
-    sich passenden Weg finden
 
 -   Unterstützung zum Dranbleiben, etablieren Deiner Gewohnheit =&gt;
     Nachhaltigkeit
 
 **Die Praxis des motivierten und motivierenden Lernens**
-
--   Jede Woche ein persönlicher Fortschritt
-
--   eine (emotionale) Erfahrung, eine neue individuelle Motivation ….
 
 -   12- Wochen Programm mit Übungen, Unterlagen und Organisation des
     Ablaufs
@@ -55,12 +34,6 @@
 
 -   Flexibles, selbst-organisiertes Arbeiten in der Gruppe
 
--   Praktische Übungen
-
--   Persönlichkeit erforschen und intrinsische Motivatoren entdecken
-
--   Evtl. Begleitung: Coaching, Kick-off und Abschlussveranstaltung
-    =&gt; Feedback
 
 ### Die Themen und Praktiken der 12 Wochen
 
@@ -89,9 +62,6 @@ Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
 -   **Bild / Zitat der Woche und weiterführende Links**: weitere
     Informationen zur eigenen Vertiefung und Reflexion
 
-Ausnahme: für das erste Treffen “[Woche 0: der Circle gründet
-sich](#woche-0-der-circle-gründet-sich)” solltet ihr euch 90 Minuten
-Zeit einplanen.
 
 Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. Oder auch [hier](https://drive.google.com/drive/folders/1vVwrUSPgrFaM5TwOoTIiRqn1fzF2jFhB?usp=sharing).
 
