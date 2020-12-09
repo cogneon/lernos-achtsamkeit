@@ -59,7 +59,10 @@ Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
     Informationen zur eigenen Vertiefung und Reflexion
 
 
-Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. Oder auch [hier](https://drive.google.com/drive/folders/1vVwrUSPgrFaM5TwOoTIiRqn1fzF2jFhB?usp=sharing).
+Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. 
+Oder auch [**hier zum Herunterladen**](https://drive.google.com/drive/folders/1vVwrUSPgrFaM5TwOoTIiRqn1fzF2jFhB?usp=sharing).
+
+TIPP: Falls ihr die Übungen gemeinsam in einem Online-Meeting anhören möchtet, empfehlen wir dem Facilitator, die entsprechende Datei herunterzuladen und ein lokale Wiedergabe mit Sharing im Meeting-Tool zu machen. 
 
 Der lernOS-Leitfaden ”Achtsamkeit 4.2 - Dein Weg ist das Ziel” wurde in
 der Version 1.0 erarbeitet von
