@@ -46,13 +46,13 @@ das Innere erforscht. Dabei bist Du Licht und Schatten in Dir begegnet
 und hast Dich mit ihnen auseinandergesetzt. Du hast Dich ein wenig
 besser kennengelernt. Vielleicht hat Dich auch die Frage nach dem, was
 Du eigentlich bist aus [Woche
-3](#woche-3-ablenkung-und-widerstände-ich-bleibe-fokussiert) an der
+3](3-03-Ablenkung_Widerstaende.md) an der
 einen oder anderen Stelle berührt. Vermutlich kannst Du jetzt ein wenig
 freundlicher mit Dir und anderen Menschen umgehen, durch weniger
 Bewertung und Vergleich. Oder Du erkennst die Wertungen, wenn sie
 auftauchen und gibst ihnen weniger Gewicht.
 
-In [Woche 11](#woche-11-achtsamkeit-und-prioritäten-im-alltag)
+In [Woche 11](3-11-Prioritaeten-Alltag.md)
 hast Du eine Methode erlebt, die mit Deinem eigenen Zutun zu dauerhafter
 Achtsamkeitspraxis führen können. Du magst erleben, wie Handlungen
 direkt aus der Wahrnehmung entstehen. Dies führt mit der Zeit in ein
@@ -66,8 +66,8 @@ immer wieder … neu …
 
 Zur Bearbeitung von hartnäckigen, schwierigen Themen magst Du gerne auf
 die Techniken der Schattenarbeit ([Woche
-9](#_heading=h.b6mcuearhs8v)) oder Metta Meditationen ([Woche
-10](#woche-10-integration-und-werte)) zurückgreifen.
+9](3-09-Schatten-SelbstWirksamkeit.md) oder Metta Meditationen ([Woche
+10](3-10-Integration-Werte.md)) zurückgreifen.
 
 Wie Dein weiterer Weg nun aussieht, kannst Du gut selbst für Dich
 festlegen oder entstehen lassen. Es gibt so viele Möglichkeiten ...

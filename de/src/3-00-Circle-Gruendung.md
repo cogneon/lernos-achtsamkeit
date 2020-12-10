@@ -49,7 +49,7 @@ vielleicht noch so viel zu sagen gäbe … Dazu gibt es noch Gelegenheit
 ### Thema: Grundlagen und Fragen? *(25 Minuten)*
 
 Geht nochmal kurz die [Grundlagen im
-Leitfaden](#lernos-grundlagen) durch oder tauscht Euch darüber aus.
+Leitfaden](2-_-lernOS-Grundlagen.md) durch oder tauscht Euch darüber aus.
 Die Woche 0 ist dazu da, den Ablauf kennenzulernen und offene Fragen zu
 klären.
 
@@ -73,7 +73,7 @@ Organisatorische Tipps:
 
 -   Vereinbart, wie ihr zwischen den Terminen miteinander kommunizieren
     wollt. Hier findet ihr [Vorschläge zu
-    Tools](#lernos-circle-die-macht-von-peer-support).
+    Tools](2-2-lernOS-Circle.md).
 
 -   Wie wollt ihr mit Abwesenheiten (z. B. Urlaub) und spontanen
     Ereignissen umgehen. Den Termin ausfallen lassen, sobald einer
