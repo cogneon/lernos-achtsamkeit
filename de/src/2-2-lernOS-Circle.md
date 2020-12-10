@@ -15,12 +15,12 @@ Circle passiert, bleibt im Circle!
 
 In lernOS-Lernpfaden gibt es keine Lehrer oder Trainer.
 
-In der [Anleitung](#lernpfad-achtsamkeit) erhalten die Teilnehmer
+In der [Anleitung](3-_-Lernpfad_Achtsamkeit.md) erhalten die Teilnehmer
 eines lernOS Circle Hinweise zum strukturierten Vorgehen und
 weiterführende Informationen.
 
 Jedes Treffen hat einen [wiederkehrenden
-Ablauf.](#bookmark=id.k5nowr8uq7n4)
+Ablauf.](1-3-Woechentliche_Circle-Treffen.md)
 
 **Praktische Tipps**
 
@@ -67,5 +67,5 @@ Ablagetools. Die folgenden Anwendungen haben sich in der Praxis bewährt:
 -   WebEx
 
 **Tipp:** Es geht bei diesem Lernpfad sicher nicht darum, das
-angesagteste Kommunikations-Toolset zu haben oder zu erlernen . E-Mail
+angesagteste Kommunikations-Toolset zu haben oder zu erlernen. E-Mail
 reicht auch.

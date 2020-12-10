@@ -6,9 +6,15 @@ site_dir: ../docs/de
 
 nav:
     - Achtsamkeit 4.2 - Dein Weg ist das Ziel: index.md
+    - Achtsamkeit 4.2:
+        - Übersicht: 1-0-Achtsamkeit42_Uebersicht.md
+        - Was ist Achtsamkeit?: 1-1-Was_ist_Achtsamkeit.md
+        - Lernreisen mit lernOS: 1-2-Lernreisen_mit_lernOS.md
+        - Wöchentliche Circle-Treffen: 1-3-Woechentliche_Circle-Treffen.md
+        - Autoren: 1-4-Autoren.md
     - lernOS: 
         - lernOS Grundlagen: 2-_-lernOS-Grundlagen.md
-        - lernOS Wheel Mindset Skillset und Toolset    : 2-1-lernOS-Wheel.md
+        - lernOS Wheel Mindset Skillset und Toolset: 2-1-lernOS-Wheel.md
         - Die Macht von Peer Support: 2-2-lernOS-Circle.md
         - lernOS Lizenz: 2-3-lernOS-Lizenz.md
     - Lernpfad Achtsamkeit:
@@ -26,7 +32,7 @@ nav:
         - Woche 10 - Integration und Werte: 3-10-Integration-Werte.md
         - Woche 11 - Achtsamkeit und Prioritäten im Alltag: 3-11-Prioritaeten-Alltag.md
         - Woche 12 - Am Ende steht der Anfang - gemeinsamer Austausch: 3-12-Ende-Anfang.md
-    - Stop talking, start doing!: 4-_-Stop-talking.md
+    - Danke: 4-_-Danke.md
 
 theme:
     name: 'material'
