@@ -98,7 +98,7 @@ Gedanken. Und auch das Beobachten, Bewerten und die Ablenkungen.
 Beobachte bei der Übung immer wieder, woran Du gerade denkst, was in Dir
 vorgeht.
 
-**Audio-Datei [Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3](https://drive.google.com/file/d/1WyKZ9HB2MZtKM8C-hyPXlyK75TpelcWg/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3](https://docs.google.com/uc?export=open&id=1WyKZ9HB2MZtKM8C-hyPXlyK75TpelcWg)**
 
 ### Erfahrungsaustausch *(10 Minuten)*
 

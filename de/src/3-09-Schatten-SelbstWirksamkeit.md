@@ -111,7 +111,7 @@ wahr.
 Wähle dazu „deinen“ Trigger oder Vorwurf aus, den du heute bearbeiten möchtest, und verbinde dich mit ihm. Nimm dir dafür etwas Zeit (ca. 1 Minute).
 Nimm dir ein Blatt Papier zur Hand und führe jetzt die Übung durch.
 
-**Audio-Datei [Achtsamkeit42_Woche09-Schatten-Journaling_20min.mp3](https://drive.google.com/file/d/1iWXheGK_B92RHBJJ7XT-r0Z5aIOfUqKS/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche09-Schatten-Journaling_20min.mp3](https://docs.google.com/uc?export=open&id=1iWXheGK_B92RHBJJ7XT-r0Z5aIOfUqKS)**
 
 Du wirst dabei durch den
 Prozess geleitet. Du kannst nach der Übung noch weiter reflektieren und

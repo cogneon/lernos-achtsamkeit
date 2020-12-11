@@ -103,7 +103,7 @@ In der Übung starten wir mit einer kurzen Meditation zur Einstimmung und
 schreiben dann die Antworten auf, die entstehen. Leg Dir bitte Block und
 Stift zurecht und hört gemeinsam die Meditation an.
 
-**Audio-Datei [Achtsamkeit42_Woche06_Journaling_9min.mp3](https://drive.google.com/file/d/1z2LM_Go7ZvSBaKa5MIChfV10In3sj_ek/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche06_Journaling_9min.mp3](https://docs.google.com/uc?export=open&id=1z2LM_Go7ZvSBaKa5MIChfV10In3sj_ek)**
 
 Schreibe die Antworten auf das Blatt.
 
