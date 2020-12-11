@@ -8,15 +8,6 @@ REM Variables
 set filename="lernOS-Achtsamkeit42"
 set chapters=./src/index.md ./src/1-0-Achtsamkeit42_Uebersicht.md  ./src/1-1-Was_ist_Achtsamkeit.md  ./src/1-2-Lernreisen_mit_lernOS.md  ./src/1-3-Woechentliche_Circle-Treffen.md  ./src/1-4-Autoren.md  ./src/2-_-lernOS-Grundlagen.md ./src/2-1-lernOS-Wheel.md ./src/2-2-lernOS-Circle.md ./src/2-3-lernOS-Lizenz.md ./src/3-_-Lernpfad_Achtsamkeit.md ./src/3-00-Circle-Gruendung.md ./src/3-01-Energie-Klarheit.md ./src/3-02-Fuehle-erfahre.md ./src/3-03-Ablenkung_Widerstaende.md ./src/3-04-Lebendigkeit-des-Moments.md ./src/3-05-Achtsam-Handeln.md ./src/3-06-Checkup-Reflexion.md ./src/3-07-Balance-Kommunikation.md ./src/3-08-Schatten-Trigger.md ./src/3-09-Schatten-SelbstWirksamkeit.md ./src/3-10-Integration-Werte.md ./src/3-11-Prioritaeten-Alltag.md ./src/3-12-Ende-Anfang.md ./src/4-_-Danke.md
 
-
-REM Create Web Version (mkdocs)
-echo Creating Web Version ...
-python -m mkdocs build
-
-pause
-exit
-
-
 REM Delete Old Versions
 echo Deleting old versions ...
 del %filename%.docx %filename%.epub %filename%.mobi %filename%.html %filename%.pdf

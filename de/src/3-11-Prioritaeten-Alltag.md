@@ -139,7 +139,7 @@ becomes action.”
 
 Führe jetzt die Übung durch. 
 
-**Audio-Datei [Achtsamkeit42_Woche11_Priorisieren_17min.mp3](https://drive.google.com/file/d/1UNh2EIYfgQGJxHYgMFo6OD2IavAPUxRm/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche11_Priorisieren_17min.mp3](https://docs.google.com/uc?export=open&id=1UNh2EIYfgQGJxHYgMFo6OD2IavAPUxRm)**
 
 Mache anschließend
 eine kurze Notiz, welches Thema während der Übung als Wichtigstes

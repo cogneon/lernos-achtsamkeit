@@ -87,7 +87,7 @@ Und nun führe die Übung mit Hilfe der gesprochenen Anleitung für Dich
 durch. Es geht im ersten Schritt um die Wahrnehmung dessen was sich
 zeigt und wie es in Dir entsteht. 
 
-**Audio-Datei [Achtsamkeit42_Woche02_Bodyscan_14min.mp3](https://drive.google.com/file/d/1j8kJ1PWkJqVH8F_omrRfuN6Zo-ge9yeF/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche02_Bodyscan_14min.mp3](https://docs.google.com/uc?export=open&id=1j8kJ1PWkJqVH8F_omrRfuN6Zo-ge9yeF)**
 
 Der sogenannte Körperscan (Bodyscan) ist als Einleitung von
 Achtsamkeitsübungen hilfreich unter folgenden Aspekten:

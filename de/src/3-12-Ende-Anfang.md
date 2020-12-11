@@ -82,7 +82,7 @@ Quadranten hast und einen Stift.
 
 ![](./images/image19.png)
 
-**Audio-Datei [Achtsamkeit42_Woche12_Spiralübung_10min.mp3](https://drive.google.com/file/d/1exIDNOnUho3mJilg8dlQcDANuBrVOFGj/view?usp=sharing)**
+**Audio-Datei [Achtsamkeit42_Woche12_Spiralübung_10min.mp3](https://docs.google.com/uc?export=open&id=1exIDNOnUho3mJilg8dlQcDANuBrVOFGj)**
 
 Das Audio führt Dich:
 
@@ -104,7 +104,7 @@ Das Audio führt Dich:
 >
 > \- Wie soll es weitergehen? Was nehme ich mir für die Zukunft mit?
 
-Zur Erinnerung der Überblick über den Kurs und die Übungen:  
+Zur Erinnerung: Überblick über den Kurs und die Übungen:  
 ![](./images/image3.png)
 
 ![](./images/image4.png)

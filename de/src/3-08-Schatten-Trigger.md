@@ -93,7 +93,7 @@ Nimm dir Papier und Stift zur Hand.
 
 Höre dir das Audio 
 
-**[Achtsamkeit42_Woche08_SchattenTeil1_12min.mp3](https://drive.google.com/file/d/13IDV_l_PNT36r6VfXcjvDw3FWvyy2wC9/view?usp=sharing)** 
+**[Achtsamkeit42_Woche08_SchattenTeil1_12min.mp3](https://docs.google.com/uc?export=open&id=13IDV_l_PNT36r6VfXcjvDw3FWvyy2wC9)** 
 
 so an, dass du es
 anhalten kannst, wenn du Zeit brauchst, tiefer in dich reinzuspüren.
