@@ -22,6 +22,12 @@ weiterführende Informationen.
 Jedes Treffen hat einen [wiederkehrenden
 Ablauf.](1-3-Woechentliche_Circle-Treffen.md)
 
+**Wie finde oder gründe ich einen Circle?**
+
+lernOS-Interessierte findest du in der [lernOS Community CONNECT](https://community.cogneon.de). 
+
+Dort gibt es auch den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/) als Marktplatz für Circle-Angebote und -Gesuche.
+
 **Praktische Tipps**
 
 Bewährt hat sich, dass der Learning Circle einmal pro Woche für eine
