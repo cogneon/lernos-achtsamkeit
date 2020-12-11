@@ -123,7 +123,7 @@ Schaue das Video mit Nicole Appel (Dauer ca. 5 Minuten) an und übe
 anschließend für 10 Minuten für Dich. Achte dabei auf Deine
 Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
 
-**Video-Datei [Achtsamkeit42_Woche05_Gehmeditation_5min.mp4](https://docs.google.com/uc?export=open&id=1af28gwOoKlSiXSRKaMUEol0BAJHwZ59P)**
+**Video-Datei [Achtsamkeit42_Woche05_Gehmeditation_5min.mp4](https://docs.google.com/uc?export=open&id=1Rf9IzzKYYNeRFnr4gxDsfZmOq5scztVs)**
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
