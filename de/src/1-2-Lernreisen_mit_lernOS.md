@@ -11,18 +11,16 @@ Prinzipien auf:
 -   Eine Lernreise dauert in der Regel 13 Wochen. Sie beginnt mit einer
     Selbst-Findung der Lerngruppe und endet mit einer Reflexion der
     Erfahrungen, des Gelernten und des Lernprozesses.
-
 -   Selbstorganisation: Es gibt keinen Organisator, keinen Lehrer oder
     Trainer. Mehr dazu unter [lernOS Circle: Die Macht von “Peer
-    Support”](2-2-lernOS-Circle.md)
-
+    Support”](2-2-lernOS-Circle.md)  >>>>>> Querverweis:   unter [Querverweis auf lernOS Circle: Die Macht von “Peer
+Support"](#lernOS-Circle-Die-Macht-von-Peer-Support)    <<<<<<
+-   
 -   Die Leitfäden geben Hinweise zum Vorgehen und enthalten Verweise zu
     weiterführenden, freien Informationen, aber auch zu Büchern, Kursen
     etc., die nützlich, aber nicht unbedingt notwendig sind.
-
 -   Selbstorganisation kann auch bedeuten, sich bzw. in der Lerngruppe
     weitere oder andere Inhalte zu erschließen und diese zu integrieren.
-
 -   Der Leitfaden beruht auf der Praxis des motivierten und
     motivierenden Lernens. Das bedeutet jede Woche einen **persönlich**
     **greifbaren Fortschritt**, eine **(emotionale) Erfahrung** und eine **neue**
