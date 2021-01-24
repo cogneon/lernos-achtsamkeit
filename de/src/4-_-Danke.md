@@ -12,9 +12,9 @@ Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt.
 
 Insbesondere danken wir:
 
--   **der lernOS-Community, ganz besonders Simon Dückert**
+-   der **lernOS-Community**, ganz besonders **Simon Dückert**
 
--   **der Working-Out-Loud-Community, John Stepper und Sabine Kluge**
+-   der **Working-Out-Loud-Community**, besonders **John Stepper** und **Sabine Kluge**
 
 Unsere Inspirationen für den Leitfaden **Achtsamkeit 4.2 - Dein Weg ist das Ziel** haben wir aus zahllosen Quellen, Büchern und nicht
 zuletzt aus unseren individuellen Wegen zur Achtsamkeit.

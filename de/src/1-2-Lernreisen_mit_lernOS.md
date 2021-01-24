@@ -13,9 +13,7 @@ Prinzipien auf:
     Erfahrungen, des Gelernten und des Lernprozesses.
 -   Selbstorganisation: Es gibt keinen Organisator, keinen Lehrer oder
     Trainer. Mehr dazu unter [lernOS Circle: Die Macht von “Peer
-    Support”](2-2-lernOS-Circle.md)  >>>>>> Querverweis:   unter [Querverweis auf lernOS Circle: Die Macht von “Peer
-Support"](#lernOS-Circle-Die-Macht-von-Peer-Support)    <<<<<<
--   
+    Support”](2-2-lernOS-Circle.md) 
 -   Die Leitfäden geben Hinweise zum Vorgehen und enthalten Verweise zu
     weiterführenden, freien Informationen, aber auch zu Büchern, Kursen
     etc., die nützlich, aber nicht unbedingt notwendig sind.

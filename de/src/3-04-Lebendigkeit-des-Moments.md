@@ -117,11 +117,11 @@ Lass Dich durch die Übung leiten - Du musst nicht auf Zeit und Erklärung
 achten. Konzentriere dich voll und ganz auf deine Sinneswahrnehmungen.
 Mache die drei Übungen direkt hintereinander.
 
-**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil1_11min.mp3](https://docs.google.com/uc?export=open&id=1vBIME3zVSfbcSjwyyyw8QPqaxSwy7Ucf)**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil1_11min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche04-Rosinen-%C3%9Cbung_Teil1_11min.mp3)**
 
-**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil2_1min.mp3](https://docs.google.com/uc?export=open&id=1VQw9PKmL_c_jJYd4u8tjC_YbKjf4vcKD)**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil2_1min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche04-Rosinen-%C3%9Cbung_Teil2_1min.mp3)**
 
-**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil3_2min.mp3](https://docs.google.com/uc?export=open&id=1af28gwOoKlSiXSRKaMUEol0BAJHwZ59P)**
+**Audio-Datei [Achtsamkeit42_Woche04-Rosinen-Übung_Teil3_2min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche04-Rosinen-%C3%9Cbung_Teil3_2min.mp3)**
 
 TIPP: Wenn ihr in der Gruppe übt, kann jeder für sich die Übung
 machen. Vereinbart eine Zeit, wann ihr weitermacht. Die Übungen dauern

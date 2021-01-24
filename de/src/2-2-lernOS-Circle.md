@@ -15,7 +15,7 @@ Circle passiert, bleibt im Circle!
 
 In lernOS-Lernpfaden gibt es keine Lehrer oder Trainer.
 
-In der [Anleitung](3-_-Lernpfad_Achtsamkeit.md) erhalten die Teilnehmer
+Der [Lernpfad](3-_-Lernpfad_Achtsamkeit.md) gibt den Teilnehmerm
 eines lernOS Circle Hinweise zum strukturierten Vorgehen und
 weiterführende Informationen.
 
@@ -58,19 +58,14 @@ Ablagetools. Die folgenden Anwendungen haben sich in der Praxis bewährt:
 
 -   Microsoft Teams / Yammer
 
--   WhatsApp / Telegram
+-   WhatsApp / Signal / Threema / Telegram
 
 -   OneNote
 
--   SharePoint
-
--   Skype / Skype for Business / Zoom
-
--   Circuit
+-   Skype / Skype for Business / Zoom / WebEx / Circuit
 
 -   Slack
 
--   WebEx
 
 **Tipp:** Es geht bei diesem Lernpfad sicher nicht darum, das
 angesagteste Kommunikations-Toolset zu haben oder zu erlernen. E-Mail

@@ -72,7 +72,7 @@ Organisatorische Tipps:
     “Reserve-Wochen”, falls mal ein Termin ausfallen sollte.
 
 -   Vereinbart, wie ihr zwischen den Terminen miteinander kommunizieren
-    wollt. Hier findet ihr [Vorschläge zu
+    wollt. Hier findet ihr [Anregungen zu
     Tools](2-2-lernOS-Circle.md).
 
 -   Wie wollt ihr mit Abwesenheiten (z. B. Urlaub) und spontanen
@@ -194,8 +194,7 @@ auf
 
 **Wenn Du noch etwas Zeit hast:**
 
--   Working Out Loud - Erste Schritte -&gt;
-    [https://workingoutloud.com/en/circle-guides](https://workingoutloud.com/en/circle-guides)
+-   Week 0: a best practice for effective Working Out Loud Circles -&gt; https://www.linkedin.com/pulse/week-0-best-practice-effective-working-out-loud-circles-julia-weber
 
 **Wenn Du mehr Zeit hast:**
 
