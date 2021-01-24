@@ -41,8 +41,8 @@ theme:
         accent: 'deep orange'
     language: de
 
-repo_name: 'cogneon/lernos-achtsamkeit42'
-repo_url: 'https://github.com/cogneon/lernos-achtsamkeit42'
+repo_name: 'cogneon/lernos-achtsamkeit'
+repo_url: 'https://github.com/cogneon/lernos-achtsamkeit'
 
 extra:
     social:
