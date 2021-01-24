@@ -23,7 +23,7 @@ Jedes Treffen dauert **eine Stunde** und hat einen wiederkehrenden **Ablauf**:
 Begleitend gibt es ein **Bild** und/oder ein **Zitat der Woche** und **weiterführende** Links zu  Informationen zur eigenen Vertiefung und Reflexion.
 
 Die Übungen werden meist durch Audio-Dateien begleitet. Die konkreten Links stehen in den Kapiteln der jeweiligen Wochen. 
-Oder alle zusammen auch [**hier**](https://archive.org/details/Achtsamkeit-42). Und zum [**Herunterladen**](https://archive.org/compress/Achtsamkeit-42/formats=VBR%20MP3&file=/Achtsamkeit-42.zip).
+Oder alle zusammen bei  [**archive.org**](https://archive.org/details/Achtsamkeit-42). Hier kannst du alle [**Audios**](https://archive.org/compress/Achtsamkeit-42/formats=VBR%20MP3&file=/Achtsamkeit-42.zip) und das [**Video**](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche05_Gehmeditation_5min.mp4) (rechte Maustaste!) herunterladen.
 
 **Tipp**: Falls ihr die Übungen gemeinsam in einem Online-Meeting anhören möchtet, empfehlen wir, die entsprechende Datei herunterzuladen und ein lokale Wiedergabe mit Sharing im Meeting-Tool zu machen. 
 
