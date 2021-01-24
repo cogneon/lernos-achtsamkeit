@@ -82,7 +82,7 @@ Quadranten hast und einen Stift.
 
 ![](./images/image19.png)
 
-**Audio-Datei [Achtsamkeit42_Woche12_Spiralübung_10min.mp3](https://docs.google.com/uc?export=open&id=1exIDNOnUho3mJilg8dlQcDANuBrVOFGj)**
+**Audio-Datei [Achtsamkeit42_Woche12_Spiralübung_10min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche12_Spiral%C3%BCbung_10min.mp3)**
 
 Das Audio führt Dich:
 

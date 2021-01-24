@@ -103,8 +103,8 @@ daraus aktiv werden …
 dabei auf das Gefühl, das in Dir entsteht. Wähle eine der
 Audio-Dateien:  
 
-- **Audio-Datei [Achtsamkeit42_Woche10-Metta-Medi_Frau_13min.mp3](https://docs.google.com/uc?export=open&id=1zadSNrD2RW5Z4JkJiNNMy9trF26ghRzb)** 
-- **Audio-Datei [Achtsamkeit42_Woche10_Metta-Medi_Mann_19min.mp3](https://docs.google.com/uc?export=open&id=16o9UhZFmojwtIz6kCq-vdozZFvzx_n0Y)**
+- **Audio-Datei [Achtsamkeit42_Woche10-Metta-Medi_Frau_13min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche10-Metta-Medi_Frau_13min.mp3)** 
+- **Audio-Datei [Achtsamkeit42_Woche10_Metta-Medi_Mann_19min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche10_Metta-Medi_Mann_19min.mp3)**
 
 oder benutze den Text:
 

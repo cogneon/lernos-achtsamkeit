@@ -95,7 +95,7 @@ Was wünscht Du Dir von diesem Kurs? Warum machst Du ihn?
 
 Macht (gemeinsam) die **Meditation**:
 
-**Audio-Datei [Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3](https://docs.google.com/uc?export=open&id=1Ewuc9b1OhALE9L48Rzq3Ae8qo5L0_xBB)**
+**Audio-Datei [Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3)**
 
 
 ### Erfahrungsaustausch *(10 Minuten)*
