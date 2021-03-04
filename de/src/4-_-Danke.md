@@ -23,8 +23,8 @@ Habt ihr Fragen, Kommentare, Hinweise, Kritik, Anmerkungen? Auch dafür danken e
 
 -   Joachim ([Joachim.Schraud@gmx.de](mailto:Joachim.Schraud@gmx.de))
 -   Reinhold ([Reinhold.Guthier@t-online.de](mailto:Reinhold.Guthier@t-online.de))
--   Hanne ([info@fritzcoaching.de](mailto:info@fritzcoaching.de))
--   Harald "Hardy" Lauritsch ([harald.lauritsch@gmx.de](mailto:harald.lauritsch@gmx.de))
+-   Hanne Fritz ([info@fritzcoaching.de](mailto:info@fritzcoaching.de))
+-   Hardy Lauritsch ([harald.lauritsch@gmx.de](mailto:harald.lauritsch@gmx.de))
 -   Nicole ([nicole.schwippl@siemens.com](mailto:nicole.schwippl@siemens.com))
 
 
