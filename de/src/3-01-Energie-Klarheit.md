@@ -157,9 +157,6 @@ Bild von Jordan\_Singh auf
 
 -   Insight Meditations Timer ( https://insighttimer.com/ )
 
--   Video Grundlagen: Was Achtsamkeit wirklich ist und was nicht? Zen
-    Meister Hinnerk Polenski (2:40):
-    [https://www.youtube.com/watch?v=vGnXtCa1ZFg](https://www.youtube.com/watch?v=vGnXtCa1ZFg)
 
 -   Was Achtsamkeit im Zen bedeutet - Meditieren lernen \|\| Zen-Meister
     Hinnerk Polenski (18:06Min.)
