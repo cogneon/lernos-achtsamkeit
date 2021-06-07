@@ -162,11 +162,9 @@ daran zu erinnern.
 ### BILD / Zitat der Woche: “Lieben was ist”
 
 > Erfahrung ist eine verstandene Wahrnehmung. (Immanuel Kant)
->
 
 > Es gibt nichts zu entdecken, nichts zu erfinden, einzig und alleine eine
 > sich wandelnde Wahrnehmung. (Andreas Herteux)
->
 
 ![](./images/image8.png)
 Bild von sasint auf
@@ -179,7 +177,7 @@ Bild von sasint auf
 -   Wahrnehmungs- Übung nach Franz Jalic: “Übung der Atemwege nach Franz
     Jalics.mp3”. Die Übung dauert ca. 20 Minuten. Achte beim Nachspüren
     zu dieser Übung darauf, inwiefern Zeit und Raum bei der Übung eine
-    Rolle spielten. [Achtsamkeit42_Woche02_Atemwege_Zusatz_19min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche03_Atemwege_Zusatz_19min.mp3#)
+    Rolle spielten. [Achtsamkeit42_Woche02_Atemwege_Zusatz_19min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche02_Atemwege_Zusatz_19min.mp3)
 
 -   Bodyscan (AOK Rheinland/Hamburg):
     [https://www.youtube.com/watch?v=RLCg4mkhlAg](https://www.youtube.com/watch?v=RLCg4mkhlAg)
