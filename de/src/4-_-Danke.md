@@ -24,15 +24,12 @@ Habt ihr Fragen, Kommentare, Hinweise, Kritik, Anmerkungen? Auch dafür danken e
 -   Joachim ([Joachim.Schraud@gmx.de](mailto:Joachim.Schraud@gmx.de))
 -   Reinhold ([Reinhold.Guthier@t-online.de](mailto:Reinhold.Guthier@t-online.de))
 -   Hanne Fritz ([info@fritzcoaching.de](mailto:info@fritzcoaching.de))
--   Herr Harald "Hardy" Lauritsch ([harald.lauritsch@gmx.de](mailto:harald.lauritsch@gmx.de))
+-   Harald "Hardy" Lauritsch ([harald.lauritsch@gmx.de](mailto:harald.lauritsch@gmx.de))
 
 
 
-
-  
 
 **KEEP CALM & LEARN ON! ... Mindfully ...**
-
 
 
 
